@@ -1,0 +1,1407 @@
+Last_Name,First_Name,Role,Lab,Lab_Role,ORCID
+Alessi,Dario,Lead-PI,Alessi,Jefe,0000-0002-2140-9185
+Abu-Remaileh,Monther,Co-PI,Abu-Remaileh,Jefe,0000-0003-3772-0477
+Muqit,Miratul,Co-PI,Alessi,Jefe,0000-0001-9733-2404
+Pfeffer,Suzanne,Co-PI,Alessi,Jefe,0000-0002-6462-984X
+Tonelli,Francesca,Key Personnel,Alessi,Research Mgr,0000-0002-4600-6630
+Adhikari,Ayan,Key Personnel,Pfeffer,PostDoc,0000-0002-8525-3263
+Nirujogi,Raja,Key Personnel,Alessi,PostDoc,0000-0002-3177-8566
+Lis,Pawel,Key Personnel,Alessi,PostDoc,0000-0002-4978-7671
+Themistokleous,Christos,Key Personnel,Muqit,PhD Student,0000-0002-1844-6639
+Saarela,Daniel,Key Personnel,Alessi,PhD Student,0000-0001-8854-7438
+Fasimoye,Rotimi,Key Personnel,Alessi,PostDoc,0000-0001-8057-0879
+Sammler,Esther,Key Personnel,Sammler,Jefe,0000-0003-3218-7116
+Lin,Cindy,Key Personnel,Abu-Remaileh,Grad Student,0000-0003-4555-195X
+Ghoochani,Ali,Key Personnel,Abu-Remaileh,PostDoc,0000-0002-5352-0072
+Dong,Wentao,Key Personnel,Abu-Remaileh,PostDoc,0000-0001-5490-4265
+Pal,Prosenjit,Key Personnel,Alessi,PostDoc,0000-0001-6848-4863
+Shi,Gloria,Key Personnel,Alessi,PhD Student,0000-0002-6297-6194
+Lam,Pui Yiu,Key Personnel,Alessi,PostDoc,0000-0001-5486-091X
+Lam,Pui Yiu,Key Personnel,Muqit,PostDoc,0000-0001-5486-091X
+Scharenberg,Sam,Key Personnel,Abu-Remaileh,Grad Student,0000-0002-3730-1662
+Bagnoli,Enrico,Proj Mgr,Muqit,PostDoc,0000-0002-0664-9981
+Phung,Toan,Key Personnel,Alessi,Data Scientist,0000-0002-2964-6070
+Phung,Toan,Key Personnel,Muqit,Data Scientist,0000-0002-2964-6070
+Krishnan,Aswini,Key Personnel,Abu-Remaileh,Grad Student,0000-0003-0764-5111
+Antico,Odetta,Key Personnel,Muqit,PhD Student,0000-0002-7325-3303
+Agarwal,Shalini,Key Personnel,Muqit,PostDoc,0000-0002-5526-6872
+Dickie,Emily,Key Personnel,Alessi,PostDoc,0000-0002-4509-5045
+Nair,Sreeja,Key Personnel,Pfeffer,PostDoc,0000-0003-2765-1244
+Jaimon,Ebsy,Key Personnel,Pfeffer,PostDoc,0000-0001-6845-2095
+Pratuseviciute,Neringa,Key Personnel,Sammler,PhD Student,0000-0002-1124-8699
+Chiang,Claire,Key Personnel,Pfeffer,PhD Student,0000-0002-0999-9856
+Levina,Aleksandra,Key Personnel,Abu-Remaileh,PostDoc,0009-0001-4653-9090
+Lin,Yu-En,Key Personnel,Pfeffer,PostDoc,0000-0002-5848-5405
+Rawat,Eshaan,Key Personnel,Abu-Remaileh,Grad Student,0000-0002-2595-7605
+Nyame,Kwamina,Key Personnel,Abu-Remaileh,Grad Student,0000-0001-8898-4689
+Sherpa,Pemba,Key Personnel,Pfeffer,Technician,0000-0002-4678-0001
+Jaconelli,Matthew,Key Personnel,Alessi,PostDoc,0009-0003-1536-435X
+Viskontas,Mindaugas,Key Personnel,Alessi,PostDoc,0009-0003-2364-7261
+Zhu,Zhijun,Key Personnel,Abu-Remaileh,PostDoc,0009-0002-9465-498X
+Elshani,Sadik,Key Personnel,Alessi,PhD Student,0009-0009-9416-6151
+Eade,Liam,Key Personnel,Alessi,PostDoc,0000-0002-0758-0912
+Matrongolo,Matthew,Key Personnel,Abu-Remaileh,PhD Student,0009-0006-2920-392X
+Kiely,Matthew,Key Personnel,Muqit,PhD Student,0009-0000-6015-1618
+Flitton,Chloe,Key Personnel,Alessi,PhD Student,0009-0005-2778-8381
+Singh,Jaijeet,Key Personnel,Alessi,Research Technician,0009-0000-0237-7993
+Tripathi,Aashutosh,Key Personnel,Pfeffer,PostDoc,0000-0002-1356-656X
+Awatramani,Rajeshwar,Lead-PI,Awatramani,Jefe,0000-0002-0713-2140
+Bevan,Mark,Co-PI,Bevan,Jefe,0000-0001-9759-0163
+Dombeck,Daniel,Co-PI,Dombeck,Jefe,0000-0003-2576-5918
+Hnasko,Thomas,Co-PI,Hnasko,Jefe,0000-0001-6176-8513
+Parisiadou,Loukia,Co-PI,Parisiadou,Jefe,0000-0002-2569-4200
+Darwinarulseeli,Divya,Key Personnel,Awatramani,Research Asst Professor,0000-0003-0268-1500
+Gaertner,Zachary,Key Personnel,Awatramani,Grad Student,0000-0002-1760-6549
+Andrés Moreno Ramos,Oscar,Key Personnel,Awatramani,Grad Student,0000-0002-1378-2545
+Hollon,Nicholas,Key Personnel,Hnasko,Project Scientist,0000-0003-4827-1582
+Hadjas,Lotfi,Key Personnel,Hnasko,PostDoc Fellow,0000-0003-1605-3601
+Nagappan,Shiva,Key Personnel,Dombeck,PostDoc Fellow,0000-0001-5910-040X
+He,Elena,Key Personnel,Dombeck,Grad Student,0000-0002-4607-166X
+Datunashvili,Maia,Key Personnel,Bevan,PostDoc Fellow,0000-0003-4245-779X
+Liu,Yuejun,Key Personnel,Bevan,Grad Student,0000-0002-8008-7278
+Hunter,Andrew,Key Personnel,Bevan,Grad Student,0000-0001-7621-1160
+Aluisi,Flavia,Key Personnel,Bevan,PostDoc Fellow,0000-0003-2850-7180
+Callahan,Joshua,Key Personnel,Bevan,Research Asst Professor,0000-0001-7567-5676
+Chen,Chuyu,Key Personnel,Parisiadou,PostDoc Fellow,0000-0001-5666-5173
+Phelan,Elizabeth,Key Personnel,Awatramani,Staff,0000-0003-2388-6003
+Lopez Gonzales del Rey,Natalia,Key Personnel,Awatramani,PostDoc Fellow,0000-0002-1546-1825
+Tombesi,Giulia,Key Personnel,Parisiadou,PostDoc Fellow,0000-0003-0683-8050
+Atherton,Jeremy,Key Personnel,Bevan,Research Asst Professor,0000-0002-4144-0657
+Lara-Gonzalez,Esther,Key Personnel,Bevan,PostDoc Fellow,0000-0003-2782-4694
+Schneeweis,Amanda,Proj Mgr,Awatramani,Proj Mgr,0000-0003-4141-6064
+Wallén-Mackenzie,Åsa,Co-PI,Wallén-Mackenzie,Jefe,0000-0002-8713-070X
+Serra,Gian Pietro,Key Personnel,Wallén-Mackenzie,,0000-0001-8782-3162
+Rubino,Eleonora,Key Personnel,Wallén-Mackenzie,,0000-0002-5248-505X
+Ricci,Alessia,Key Personnel,Wallén-Mackenzie,Grad Student,0009-0007-9190-9795
+Doster,Luan,Key Personnel,Awatramani,Research Technologist,0009-0007-5886-2673
+Lyman,James,Key Personnel,Awatramani,Research Technologist,0009-0005-8313-5246
+Kim,Lisa,Key Personnel,Awatramani,Grad Student,0009-0008-6749-198X
+Sneed,Sydney,Key Personnel,Awatramani,Research Technologist,0009-0001-5811-0187
+Dix,China,Key Personnel,Bevan,Research Technologist,0009-0001-1122-1023
+Nasios,Chris,Key Personnel,Parisiadou,Research Technologist,0009-0005-2246-787X
+Xu,Shudi,Key Personnel,Dombeck,Grad Student,0009-0000-2573-6856
+Pantazopoulos,Roman,Key Personnel,Parisiadou,Undergrad Student,0009-0003-4140-6509
+Biederer,Thomas,Lead-PI,Biederer,Jefe,0000-0003-0912-1514
+Bassett,Dani,Co-PI,Biederer,Jefe,0000-0002-6183-4493
+Gracheva,Elena,Co-PI,Gracheva,Jefe,0000-0002-0846-3427
+Henderson,Michael,Co-PI,Henderson,Jefe,0000-0001-9710-0726
+Higley,Michael,Co-PI,Higley,Jefe,0000-0002-5424-6730
+Matos,Tina,Proj Mgr,Biederer,,0000-0003-1279-471X
+Meyerdirk,Lindsay,Key Personnel,Henderson,,0000-0003-4640-9517
+Mastrotto,Marco,Key Personnel,Gracheva,,0000-0002-3180-7400
+Feketa,Viktor,Key Personnel,Gracheva,,0000-0003-4978-0581
+Kummer,Terrance,Co-PI,Kummer,Jefe,0000-0001-8938-8280
+Sauerbeck,Andrew,Key Personnel,Kummer,,0000-0002-4586-0579
+Pasqualetti,Fabio,Co-PI,Pasqualetti,Jefe,0000-0002-8457-8656
+Volpicelli‐Daley,Laura,Co-PI,Volpicelli‐Daley,Jefe,0000-0001-8934-4018
+Boyden,Ed,Co-PI,Boyden,Jefe,0000-0002-0419-3351
+Beach,Thomas,Co-PI,Civin Laboratory for Neuropathology,,0000-0003-3296-6128
+An,Bobae,Key Personnel,Boyden,,0000-0003-2748-1943
+Kang,Jinyoung,Key Personnel,Boyden,,0000-0001-6116-3477
+Schroeder,Margaret,Key Personnel,Boyden,,0000-0002-2228-7482
+Iuliano,Maria,Key Personnel,Biederer,Grad Student,0000-0003-4072-3724
+Brzozowski,Charlotte,Key Personnel,Volpicelli‐Daley,Grad Student,0000-0002-8871-2453
+Ilona,Kondratiuk,Key Personnel,Biederer,PostDoc,0000-0002-7740-8923
+Sah,Saroj,Key Personnel,Biederer,PostDoc,0000-0001-8782-9126
+Goralski,Thomas,Key Personnel,Henderson,Grad Student,0000-0003-2625-9195
+DeWeerd,Daniella,Key Personnel,Henderson,Grad Student Intern,0000-0002-2675-5132
+Breton,Libby,Key Personnel,Henderson,Research Technician,0000-0001-9968-1878
+Serrano,Geidy,Key Personnel,Civin Laboratory for Neuropathology,Neuroanatomist,0000-0002-9527-2011
+Correa-Chavez,Estela,Key Personnel,Higley,Research Technician,0000-0001-9901-205X
+Patel,Paras,Key Personnel,Higley,PostDoc,0000-0002-2399-025X
+Dong,Hao,Key Personnel,Higley,Grad Student,0000-0001-9115-538X
+Pant,Rima,Key Personnel,Higley,Research Technician,0000-0003-0679-3569
+Gcwensa,Nolwazi,Key Personnel,Volpicelli‐Daley,Grad Student,0000-0001-9708-6119
+Brynildsen,Kate,Key Personnel,Bassett,PostDoc,0000-0002-1627-6576
+Kurgat,Kevin,Key Personnel,Henderson,Research Technician,0000-0003-3237-7390
+Yu,Eunah,Key Personnel,Boyden,Research Scientist,0000-0002-0937-1663
+Murphy,Kieran,Key Personnel,Bassett,PostDoc,0000-0003-0960-6685
+Patankar,Shubhankar,Key Personnel,Bassett,Grad Student,0000-0001-7753-1326
+Kulkarni,Suman,Key Personnel,Bassett,PostDoc,0000-0001-8645-0771
+Brasseur,Laura,Key Personnel,Henderson,Technician,0009-0003-5331-138X
+Musarat,Lamisa,Key Personnel,Higley,Grad Student,0009-0004-5619-3152
+Vatsa,Naman,Key Personnel,Henderson,PostDoc,0000-0003-4683-3086
+Pérez-Acuña,Dayana,Key Personnel,Biederer,PostDoc,0000-0002-9471-5378
+Shedge,Pranav,Key Personnel,Biederer,PostGraduate Trainee,0009-0000-5276-2857
+Platt,Maryann,Key Personnel,Gracheva,PostDoc,0000-0001-8900-1226
+Alexandersen,Christoffer Gretarsson,Key Personnel,Bassett,PostDoc,0000-0002-9645-7552
+Nguyen,Giang,Key Personnel,Henderson,Undergrad Student0009-0006-7951-9180
+Calakos,Nicole,Lead-PI,Calakos,Jefe,0000-0002-9918-3294
+Eroglu,Cagla,Co-PI,Eroglu,Jefe,0000-0002-7204-0218
+Pasca,Sergiu,Co-PI,Pasca,Jefe,0000-0002-3216-3248
+Soderling,Scott,Co-PI,Soderling,Jefe,0000-0001-7808-197X
+Tadross,Michael,Co-PI,Tadross,Jefe,0000-0002-7752-6380
+Lockshin,Elana,Key Personnel,Calakos,,0000-0001-5808-7995
+Sanders,Laurie H.,Co-PI,Sanders,Jefe,0000-0003-1617-9562
+Gregory,Simon,Co-PI,Gregory,Jefe,0000-0002-7805-1743
+Shonai,Daichi,Key Personnel,Soderling,,0000-0001-5430-6185
+Choudhury,Ankit,Key Personnel,Tadross,,0000-0001-9863-9862
+Shields,Brenda,Key Personnel,Tadross,,0000-0001-9036-2686
+Lim,Shaun,Key Personnel,Tadross,,0000-0001-9312-6275
+Khoury,Oula,Proj Mgr,Calakos,,0000-0002-8432-9588
+Anastasya,Birger,Key Personnel,Eroglu,,0000-0002-6468-4283
+Dhanseh,SB,Key Personnel,Eroglu,,0000-0002-1545-1547
+Gabrielle,Sejourne,Key Personnel,Eroglu,,0000-0002-4633-2700
+Nicholas,Brose,Key Personnel,Eroglu,,0000-0003-1559-0237
+Nimrod,Elazar,Key Personnel,Eroglu,,0000-0002-2981-5794
+Ryan,Baumert,Key Personnel,Eroglu,,0000-0003-0487-4912
+Shiyi,Wang,Key Personnel,Eroglu,,0000-0003-3433-3025
+Schiapparelli,Lucio,Key Personnel,Soderling,,0000-0001-6156-7682
+Yan,Haidun,Key Personnel,Tadross,Senior Research Scientist,0000-0003-0916-8865
+Kavya,Raghunathan,Key Personnel,Eroglu,,0000-0002-9003-9472
+Yuki,Miura,Key Personnel,Pasca,,0000-0002-1410-3612
+Morris,Cameron,Key Personnel,Calakos,,0000-0002-4975-9929
+Ji,Il,Key Personnel,Pasca,,0000-0002-5710-7090
+Vazquez,Leslie,Key Personnel,Eroglu,,0000-0002-5609-980X
+Vignali,Carlo,Key Personnel,Calakos,,0000-0003-3325-8684
+Savage,Justin,Key Personnel,Eroglu,,0000-0002-1530-4942
+Lehrman,Sophia,Key Personnel,Sanders,,0009-0001-6223-9338
+Bradley,Luke,Key Personnel,Eroglu,,0009-0009-8953-5661
+Richbourg,Tara,Key Personnel,Sanders,,0000-0002-2729-9837
+Quintero,Daniel,Key Personnel,Eroglu,,0000-0001-8243-7107
+Oliver,Matt,Key Personnel,Calakos,,0000-0002-8474-4589
+Caffall,Zachary,Key Personnel,Calakos,,0000-0003-4601-6799
+Perez,Daisy,Key Personnel,Calakos,,0009-0001-5148-5269
+Rittiner,Joseph,Key Personnel,Calakos,,0000-0003-3592-6500
+Gonzalez-Hunt,Claudia,Key Personnel,Calakos,,0000-0002-2736-0001
+Xu,Yirong,Key Personnel,Sanders,,0009-0008-8441-4003
+Chen,Xiqun,Lead-PI,Chen,Jefe,0000-0001-8582-8891
+Chan,Timothy,Co-PI,Chan,Jefe,0000-0002-9265-0283
+Peng,Weiyi,Co-PI,Peng,Jefe,0000-0002-7785-6240
+Schwarzschild,Michael,Co-PI,Schwarzschild,Jefe,0000-0001-6019-8280
+Tawbi,Hussein,Co-PI,,,0000-0003-1942-851X
+Bakshi,Rachit,Key Personnel,Schwarzschild,Staff Scientist,0000-0002-8531-7941
+Mohan,Chandra,Key Personnel,Peng,Collaborator,0000-0001-7896-5740
+Makarov,Vladimir,Key Personnel,Chan,Computational Biologist,0000-0001-8026-824X
+Macklin,Eric,Key Personnel,Chen,Biostatistician,0000-0003-1618-3502
+Shi,Leilei,Key Personnel,Peng,PostDoc,0000-0002-8895-1403
+Varadarajan,Navin,Key Personnel,Peng,Collaborator,0000-0001-7524-8228
+Wang,Jian,Key Personnel,Hussein,Biostatistician,0000-0001-7104-0673
+Hou,Jiakai,Key Personnel,Peng,PostDoc,0000-0003-2875-8756
+Xia,Ning,Key Personnel,Schwarzschild,PostDoc,0000-0002-6102-4116
+Honarvar,Niyaz,Key Personnel,Chen,PostDoc,0000-0001-8257-3507
+Xu,Chunyu,Key Personnel,Peng,Senior Research Asst,0000-0002-7153-2464
+Yee,Cassian,Co-PI,Yee,Jefe,0000-0002-4429-7307
+Gong,Yongxing,Key Personnel,Chan,PostDoc,0000-0003-1071-0375
+Crotty,Grace,Key Personnel,Schwarzschild,Collaborator,0000-0002-8106-7842
+Srivastava,Akriti,Key Personnel,Schwarzschild,PostDoc,0000-0001-7308-4637
+Jaffery,Roshni,Key Personnel,Peng,Grad Student,0000-0003-4128-345X
+Singh,Shailbala,Key Personnel,Yee,,0000-0002-0681-3948
+Levy,Michael,Key Personnel,Levy,Jefe,0000-0002-7969-8346
+Wang,Qing,Key Personnel,Chen,Grad Student,0000-0002-4911-3300
+Ahn,Jae,Key Personnel,Chen,Intern,0000-0002-9508-4301
+Zheng,Ningbo,Key Personnel,Peng,PostDoc Fellow,0000-0002-3684-5596
+Su,Chienwen,Key Personnel,Chen,Instructor,0000-0003-2519-9709
+Zhou,Fang,Key Personnel,Chen,PostDoc Fellow,0000-0002-8913-1300
+Schumacher,Jackson,Proj Mgr,Chen,Student,0009-0000-4227-4710
+Guerrero,Ashley,Key Personnel,Peng,Grad Student,
+Fassini,Aline,Key Personnel,Chen,PostDoc Fellow,0000-0002-9523-9342
+Ahmed,Sarfraz,Key Personnel,Chen,Collaborator,0000-0001-5879-0461
+Zhao,Yuhang,Key Personnel,Chen,PostDoc Fellow,0009-0000-9976-3478
+Bayati,Armin,Key Personnel,Chen,PostDoc Fellow,0000-0002-5960-0479
+Vrban,Hanka,Key Personnel,Yee,Research Asst,0000-0002-9486-121X
+Cragg,Stephanie,Lead-PI,Cragg,Jefe,0000-0001-9677-2256
+Howe,Mark,Co-PI,Howe,Jefe,0000-0002-6865-5084
+Magill,Peter,Co-PI,Magill,Jefe,0000-0001-7141-7071
+Meletis,Konstantinos,Co-PI,Cragg,Jefe,0000-0001-5665-4781
+Wade-Martins,Richard,Co-PI,Cragg,Jefe,0000-0001-6691-580X
+Mendes,Cláudia,Proj Mgr,Cragg,Proj Mgr,0000-0003-0761-5676
+Li,Yulong,Co-PI,Li,Jefe,0000-0002-9166-9919
+Lin,Michael,Co-PI,Lin,Jefe,0000-0002-0492-1961
+Brimblecombe,Katherine,Key Personnel,Cragg,PostDoc Researcher,0000-0003-0809-7292
+Burgeno,Lauren,Key Personnel,Cragg,PostDoc Researcher,0000-0001-9305-1621
+O'Connor,Bethan,Key Personnel,Cragg,Grad Student,0000-0002-0093-5688
+Raina,Shinil,Key Personnel,Cragg,Research Asst,0000-0002-1837-9616
+Duquenoy,Lucille,Key Personnel,Cragg,Grad Student,0000-0003-2357-2549
+Livesey,Jessica,Key Personnel,Cragg,Grad Student,0000-0002-4291-704X
+Qiao,Qinbo,Key Personnel,Cragg,Grad Student,0000-0002-5071-5579
+Todd,Kathryn,Key Personnel,Cragg,PostDoc Researcher,0000-0002-6678-8668
+Szydlowski,Susanne,Key Personnel,Cragg,PostDoc Researcher,0000-0003-4628-462X
+Bossi,Simon,Key Personnel,Cragg,PostDoc Researcher,0000-0001-6411-5075
+Vedula,Aishwarya,Key Personnel,Cragg,Masters Student,0009-0002-0221-9017
+Winiarski,Samuel,Key Personnel,Cragg,Undergrad Student,0000-0002-8204-1951
+Walker,Niamh,Key Personnel,Cragg,Undergrad Student,0000-0003-3846-8111
+O'Brien,Ann,Key Personnel,Cragg,Undergrad Student,
+Loiseau,Camille,Key Personnel,Magill,PostDoc Researcher,0000-0003-3108-5193
+Yona,Guy,Key Personnel,Magill,PostDoc Researcher,0000-0003-0695-0827
+Nakamura,Kouichi,Key Personnel,Magill,PostDoc Researcher,0000-0001-7053-0507
+Doig,Natalie,Key Personnel,Magill,PostDoc Researcher,0000-0001-6821-0264
+Elghaba,Rasha,Key Personnel,Magill,PostDoc Researcher,0000-0002-2436-7638
+Tam,Teris,Key Personnel,Magill,PostDoc Researcher,0000-0002-4102-5023
+Blackmore,Jennifer,Key Personnel,Magill,Research Asst,0009-0006-0880-0805
+Collins,Helen,Key Personnel,Magill,PostDoc Researcher,0000-0002-4818-5003
+Cramb,Kaitlyn,Key Personnel,Wade-Martins,Grad Student,0000-0003-2822-7752
+Noor,Humaira,Key Personnel,Wade-Martins,Grad Student,0000-0002-7141-2681
+Lang,Charmaine,Key Personnel,Wade-Martins,PostDoc Researcher,0000-0001-8190-4850
+Marquez Gomez,Ricardo,Key Personnel,Wade-Martins,PostDoc Researcher,0000-0002-5810-2670
+Caiazza,Maria Claudia,Key Personnel,Wade-Martins,Grad Student,0000-0002-0568-964X
+Bengoa-Vergniory,Nora,Key Personnel,Wade-Martins,PostDoc Researcher,0000-0002-3700-0464
+Sharifi,Parnaz,Key Personnel,Wade-Martins,Grad Student,0000-0002-8735-0913
+Diviney,Tara,Key Personnel,Wade-Martins,Grad Student,0000-0001-6722-7224
+Vallin,Benjamin,Key Personnel,Wade-Martins,PostDoc Researcher,0009-0008-4907-4330
+Curry,Oliver,Key Personnel,Wade-Martins,Grad Student,0009-0007-3545-8264
+Mantas,Ioannis,Key Personnel,Meletis,PostDoc Researcher,0000-0001-6288-5439
+Graziano,Marta,Key Personnel,Meletis,Research Asst,0000-0001-9417-5212
+Skara,Vasiliki,Key Personnel,Meletis,Grad Student,0000-0002-0017-6116
+Wärnberg,Emil,Key Personnel,Meletis,Grad Student,0000-0002-4754-4561
+Contesse,Thomas,Key Personnel,Meletis,PostDoc Researcher,0000-0001-8873-3871
+Contestabile,Alessandro,Key Personnel,Meletis,PostDoc Researcher,0000-0001-6528-1403
+Bouabid,Safa,Key Personnel,Howe,PostDoc Researcher,0000-0003-4184-3795
+Tamer,Betul,Key Personnel,Howe,Grad Student,0000-0003-1826-4883
+Joshi,Anil,Key Personnel,Howe,PostDoc Researcher,0000-0002-8443-8354
+Vu,Mai-Anh,Key Personnel,Howe,PostDoc Researcher,0000-0003-4766-1159
+Sousa,Ana,Research Asst,,,0000-0003-3749-043X
+Wu,Wenhui,Research Asst,,,0009-0008-9347-7524
+Choudhuri,Sayon,Undergrad Student,,,0000-0001-9530-3220
+De Camilli,Pietro,Lead-PI,De Camilli,Jefe,0000-0001-9045-0723
+Ferguson,Shawn,Co-PI,De Camilli,Jefe,0000-0002-3092-7718
+Gupta,Kallol,Co-PI,De Camilli,Jefe,0000-0002-3557-3242
+Reinisch,Karin,Co-PI,De Camilli,Jefe,0000-0001-9140-6150
+Ryan,Timothy,Co-PI,Ryan,Jefe,0000-0003-2533-9548
+Ugur,Berrak,Proj Mgr,De Camilli,Assoc Research Scientist,0000-0003-4806-8891
+Wang,Xinbo,Key Personnel,De Camilli,PostDoc,0000-0003-1270-5123
+Wu,Yumei,Key Personnel,De Camilli,Assoc Research Scientist,0000-0003-0878-7605
+Zhang,Le,Lead-PI,Hafler,Jefe,0000-0002-4860-831X
+Ferguson,Agnes,Key Personnel,Ferguson,Assoc Research Scientist,0000-0003-0838-2157
+Kokotos,Alexandros,Key Personnel,Ryan,PostDoc,0000-0003-4024-9866
+Hanna,Michael,Key Personnel,De Camilli,,0000-0002-1975-0501
+Muñoz-Llancao,Pablo,Key Personnel,Ferguson,PostDoc,0000-0001-9280-1590
+Bentley-DeSousa,Amanda,Key Personnel,Ferguson,PostDoc,0000-0002-3667-4029
+Dai,Anbang,Key Personnel,De Camilli,PostDoc,0000-0003-3434-0663
+Xu,Peng,Key Personnel,De Camilli,Assoc Research Scientist,0000-0001-5197-9560
+Falahati,Hanieh,Key Personnel,De Camilli,PostDoc,0000-0001-6302-7575
+Fujise,Kenshiro,Key Personnel,De Camilli,PostDoc,0000-0001-9018-6504
+Filippini,Francesca,Key Personnel,Ferguson,PostDoc,0000-0003-2107-1935
+Clegg,Devin,Key Personnel,Ferguson,Grad Student,0000-0001-9522-168X
+McAllister,Rachel,Key Personnel,Gupta,Grad Student,0000-0002-1646-7241
+Brown,Caroline,Key Personnel,Gupta,Grad Student,0000-0002-2751-9262
+Vulpe,Alina,Proj Mgr,De Camilli,Admin,0000-0001-5385-3072
+Pulido,Camila,Key Personnel,Ryan,PostDoc,0000-0002-5648-066X
+Jung,Won,Key Personnel,Gupta,PostDoc,0000-0002-3980-5602
+Knapp,Justin,Key Personnel,Gupta,PostGrad Asst,0009-0002-7018-9702
+Ghosh,Snehashish,Key Personnel,Gupta,PostDoc,0000-0003-0472-747X
+Amos,Chase,Key Personnel,De Camilli,Grad Student,0000-0002-3176-9387
+Talaia,Gabriel,Key Personnel,Ferguson,PostDoc,0000-0003-1870-4658
+Delgado,Sofia,Key Personnel,Gupta,Grad Student,0000-0001-5278-6736
+Nassar,Layla,,Ferguson,Grad Student,0000-0002-3080-7599
+Nield,Chloe,,Ferguson,Grad Student,0009-0004-1485-7619
+Kumar,Mukesh,Key Personnel,Ryan,PostDoc,0000-0002-0277-2958
+Johnson,Benjamin,Key Personnel,De Camilli,PostDoc,0000-0002-6048-1382
+Desjardins,Michel,Lead-PI,Desjardins,Jefe,0000-0002-5684-5980
+Gruenheid,Samantha,Co-PI,Gruenheid,Jefe,0000-0002-0908-6715
+McBride,Heidi,Co-PI,McBride,Jefe,0000-0003-4666-2280
+Stratton,Jo Anne,Co-PI,Stratton,Jefe,0000-0002-1205-1353
+Trudeau,Louis-Eric,Co-PI,Trudeau,Jefe,0000-0003-4684-1377
+Rodriguez,Lilia,Proj Mgr,,,0000-0002-5863-3180
+Thibault,Pierre,Co-PI,Thibault,Jefe,0000-0001-5993-0331
+Labrecque,Nathalie,Co-PI,Labrecque,Jefe,0000-0001-7563-1542
+Drouin-Ouellet,Janelle,Co-PI,Drouin-Ouellet,Jefe,0000-0002-7645-0521
+Schurr,Erwin,Co-PI,Schurr,Jefe,0000-0002-2640-536X
+Fahmy,Ahmed,Key Personnel,Desjardins,PostDoc,0000-0003-0444-383X
+Hernandez,Camberly,Key Personnel,Desjardins,Technician,0000-0003-2585-4160
+Recinto,Sherilyn,Key Personnel,Stratton,PhD Trainee,0000-0001-9632-1201
+MacDonald,Adam,Key Personnel,Stratton,PhD Trainee,0000-0002-6470-1186
+Bourque,Marie-Josée,Key Personnel,Trudeau,Research Asst,0000-0003-2284-4899
+Mukherjee,Sriparna,Key Personnel,Trudeau,PostDoc,0000-0002-1299-4343
+Nedjar,Ilyes,Key Personnel,Trudeau,PhD Trainee,0000-0002-2201-146X
+Giguère,Nicolas,Key Personnel,Trudeau,Research Asst,0000-0001-8130-5321
+Nguyen,Mai,Key Personnel,McBride,Research Asst,0000-0002-9723-6321
+Lanoix,Joel,Key Personnel,Thibault,Research Asst,0000-0001-7073-9298
+Xu,Yong Zhong,Key Personnel,Schurr,Research Assoc,0000-0002-9201-0446
+Petit,Florence,Key Personnel,Drouin-Ouellet,Research Asst,0000-0002-0363-280X
+Bouquety,Julie,Key Personnel,Drouin-Ouellet,PhD Trainee,0000-0003-2085-556X
+Barrette,Benoit,Key Personnel,Desjardins,Research Asst,0000-0003-0011-3905
+Even,Amandine,Key Personnel,Trudeau,PostDoc,0000-0001-9838-1849
+Pei,Jessica,Key Personnel,Gruenheid,Grad Student,0000-0001-7115-5606
+Kazanova,Alexandra,Key Personnel,Gruenheid,Research Assoc,0000-0003-4850-9845
+Dallmannsauer,Monica,Key Personnel,Schurr,PostDoc,0000-0002-6321-241X
+Tiefensee Ribeiro,Camila,Key Personnel,McBride,Grad Student,0000-0003-0876-119X
+Ibrahim,Maha,Key Personnel,Desjardins,Grad Student,0000-0003-0382-9650
+Yaqubi,Moein,Key Personnel,Stratton,PostDoc,0000-0001-7299-5930
+Omana,Vanessa,Key Personnel,Stratton,Research Asst,0000-0001-7442-2271
+Nouh,Moustafa,Key Personnel,Trudeau,Grad Student,0000-0001-6507-7920
+Nouh,Moustafa,Key Personnel,Labrecque,Grad Student,0000-0001-6507-7920
+Li,Chongyang,Key Personnel,Thibault,Research Assoc,0000-0001-6842-4406
+Oliveira,Nathalia,Key Personnel,Gruenheid,PostDoc,0000-0002-5823-2184
+Brouillard-Galipeau,Morgane,Key Personnel,Gruenheid,Grad Student,0000-0002-9649-3852
+Ahmadi,Ali,Key Personnel,Desjardins,Research Asst,0000-0001-9926-8434
+Mohamad,Zaya,Key Personnel,Drouin-Ouellet,Grad Student,0009-0009-2716-4877
+Edwards,Robert,Lead-PI,Edwards,Jefe,0000-0002-8650-3260
+Khaliq,Zayd,Co-PI,Khaliq,Jefe,0000-0002-1445-1457
+Nakamura,Ken,Co-PI,Nakamura,Jefe,0000-0002-9192-182X
+Nelson,Alexandra,Co-PI,Nelson,Jefe,0000-0002-9305-5662
+Lerner,Talia,Co-PI,Lerner,Jefe,0000-0002-3875-0654
+Ford,Chris,Co-PI,Ford,Jefe,0000-0002-4175-2933
+Creed,Rose,Key Personnel,Nelson,PostDoc,0000-0003-4893-2010
+Zhuang,Xiaowen,Key Personnel,Nelson,PostDoc,0000-0002-9064-4023
+Sansalone,Lorenzo,Key Personnel,Khaliq,PostDoc,0000-0002-7215-0783
+Perkins,Jessica,Key Personnel,Khaliq,PostDoc,0000-0002-5566-1901
+Runwal,Gautam,Key Personnel,Edwards,PostDoc,0000-0002-1591-5786
+Rademacher,Katerina,Key Personnel,Nakamura,Grad Student,0000-0001-9676-6673
+Alese,Oluwole,Key Personnel,Nakamura,PostDoc,0000-0001-8607-7671
+Fu,Yuhong,Key Personnel,Halliday,Senior Research Fellow,0000-0003-4539-2039
+Hsiao,Tony,Key Personnel,Halliday,Researcher,0000-0003-4933-0417
+Nielsen,Elizabeth,Key Personnel,Ford,PostDoc,0000-0001-9927-3639
+Yee,Andrew,Key Personnel,Ford,PostDoc,0000-0002-0981-6634
+Van Camp,Louis,Key Personnel,Lerner,Research Asst,0000-0002-4215-6965
+Seiler,Jillian,Key Personnel,Lerner,PostDoc,0000-0003-4430-4797
+Mwenda,Nkatha,Key Personnel,Lerner,Grad Student,0000-0001-5411-9451
+Szu-Chi,Liao,Key Personnel,Nakamura,Grad Student,0000-0003-2744-363X
+Nadel,Jacob,Key Personnel,Lerner,Grad Student,0000-0002-7611-2434
+Mori,Akio,Key Personnel,Edwards,PostDoc,0000-0002-8711-6991
+Kano,Kohei,Key Personnel,Nakamura,PostDoc,0000-0002-0223-5781
+McGregor,Match,Key Personnel,Ford,PostDoc,0000-0002-9620-2568
+Twedell,Emily,Key Personnel,Nelson,Grad Student,0000-0003-0355-2399
+Kontaxi,Christiana,Key Personnel,Edwards,PostDoc,0000-0002-3026-1151
+Barnhill,Olivia,Key Personnel,Nelson,Grad Student,0000-0003-1597-9701
+Paz,Rodrigo,Key Personnel,Nelson,PostDoc,0000-0002-5179-2760
+Jain,Shweta,Key Personnel,Edwards,Research Asst,0000-0001-9716-7453
+Sridhar,Sadhana,Key Personnel,Nelson,Technician,0000-0003-0041-3414
+Marcott,Pam,Key Personnel,Nelson,PostDoc,0000-0002-6341-6113
+Chatterton,Zac,Key Personnel,Halliday,Research Asst,0000-0002-6683-1400
+Goswami,Barkha,Key Personnel,Halliday,Research Asst,0009-0003-8456-8153
+Yanez,Anthony,Key Personnel,Khaliq,Postbac,0009-0003-5200-8194
+Lipkin,Anna,Key Personnel,Khaliq,PostDoc,0000-0001-5887-9044
+Coutant,Bérénice,Key Personnel,Nelson,PostDoc,0009-0008-0810-3115
+Lopez,Naeliz,Key Personnel,Lerner,Postbac,0000-0002-7380-4575
+Adler,Joy,Key Personnel,Ford,Grad Student,0000-0003-3557-682X
+Sei,Yoshi,Key Personnel,Nakamura,PostDoc,0000-0002-4725-8725
+Meng,Jonathan,Key Personnel,Nakamura,PostDoc,0000-0002-4315-3483
+Zhu,ManHua,Key Personnel,Lerner,PostDoc,0000-0003-1634-7212
+Hernandez Lopez,Javier,Key Personnel,Nelson,Technician,0000-0003-0028-187X
+Burke,Amy,Key Personnel,Halliday,Research Asst,0009-0006-9274-9589
+Wilson,Danielle,Key Personnel,Khaliq,Postbac,0000-0002-1440-8424
+Schneps,Heather,Key Personnel,Khaliq,Postbac,0009-0000-9919-4471
+Bergum,Nikolas,Key Personnel,Ford,PostDoc,0000-0003-2474-4912
+Maas,James,Proj Mgr,Edwards,Senior Researcher,0009-0000-1102-8197
+Fu,Xiang-Dong,Lead-PI,Fu,Jefe,0000-0001-5499-8732
+Dowdy,Steven,Co-PI,Dowdy,Jefe,0000-0003-3083-2257
+Mobley,William,Lead-PI,Mobley,Jefe,0000-0002-6408-9548
+Xue,Yuanchao,Co-PI,Xue,Jefe,0000-0002-8113-2333
+Shaw,Peter,Proj Mgr,Shaw,Jefe,0000-0001-7392-6224
+Wang,Allen,Co-PI,"Wang,A",Jefe,0000-0001-9870-7888
+Ren,Bing,Co-PI,Ren,Jefe,0000-0002-5435-1127
+Wang,Xiaoqun,Co-PI,"Wang,X",Jefe,0000-0003-3440-2617
+Johnstone,Aaron,,Mobley,PostDoc Fellow,0000-0003-0888-8238
+Zuo,Xinxin,,Mobley,PostDoc Fellow,0000-0002-1964-6886
+Daza,Ray,,Mobley,Research Assoc,0000-0002-4765-4648
+Wang,Kangli,,Mobley,PostDoc Fellow,0009-0008-0699-0101
+Gulumkar,Vijay,,Dowdy,PostDoc Fellow,0009-0000-9034-2140
+Rosenfeld,Michael,,Rosenfeld,Jefe,0000-0002-1572-156X
+Friedman,Meyer,,Rosenfeld,Research Assoc,0000-0003-3509-7490
+McEvilly,Robert,,Rosenfeld,Research Assoc,0009-0000-8240-0152
+Butowska,Kamila,,Dowdy,PostDoc Fellow,0000-0002-8175-1062
+Guan,Dongxu,,Mobley,Research Assoc,0000-0003-1702-9347
+Orr,Miranda,Co-PI,Orr,Jefe,0000-0002-0418-2724
+Cleveland,Don,Co-PI,Cleveland,Jefe,0000-0002-1934-3682
+Maimon,Roy,,Cleveland,PostDoc Fellow,0000-0003-1098-9097
+Gradinaru,Viviana,Lead-PI,Gradinaru,Jefe,0000-0001-5868-348X
+Fox,Andrew,Co-PI,Fox,Jefe,0000-0003-0695-3323
+Mazmanian,Sarkis,Co-PI,Mazmanian,Jefe,0000-0003-2713-1513
+Seifert,Ashley,Co-PI,Seifert,Jefe,0000-0001-6576-3664
+Van Valen,David,Co-PI,Van Valen,Jefe,0000-0001-7534-7621
+Tian,Lin,Co-PI,Tian,Jefe,0000-0001-7012-6926
+Roy,Subhojit,Co-PI,Roy,Jefe,0000-0002-1571-2735
+Oikonomou,Catherine,Proj Mgr,Gradinaru,,0000-0003-2312-4746
+Oikonomou,Catherine,Proj Mgr,Mazmanian,,0000-0003-2312-4746
+Coughlin,Gerard,Key Personnel,Gradinaru,Grad Student,0000-0003-0644-4721
+Arokiaraj,Cynthia,Key Personnel,Gradinaru,PostDoc,0000-0003-3201-9868
+de Castro Fonseca,Matheus,Key Personnel,Mazmanian,Senior Scientist,0000-0001-9048-9775
+Schwartz,Morgan,Key Personnel,Van Valen,Grad Student,0000-0001-8131-9125
+Ombelets,Lincoln,Key Personnel,Van Valen,Grad Student,0000-0002-5625-5411
+Drzewiecki,Carly,Key Personnel,Fox,PostDoc,0000-0002-9945-8040
+Campos,Lillian,Key Personnel,Fox,Grad Student,0000-0003-0839-0288
+Kamboj,Shawn,Key Personnel,Fox,Grad Student,0000-0003-1343-7618
+Donahue,Renee,Key Personnel,Seifert,Senior Scientist,0000-0002-3344-5650
+Chung,Alex,Key Personnel,Gradinaru,Grad Student,0000-0003-2965-9530
+Jang,Min Jee,Key Personnel,Gradinaru,PostDoc,0000-0002-1536-7177
+Chen,Xinhong,Key Personnel,Gradinaru,Grad Student,0000-0003-0408-0813
+Dutta,Sayan,Key Personnel,Gradinaru,PostDoc,0000-0003-3577-2193
+Tjahjono,Nikki,Key Personnel,Tian,Grad Student,0000-0002-6050-3617
+Scott,Erin,Key Personnel,Fox,Grad Student,0000-0002-9715-1512
+Scott,Erin,Key Personnel,Tian,Grad Student,0000-0002-9715-1512
+Hoang,Jonathan,Key Personnel,Gradinaru,PostDoc,0000-0002-3762-9596
+Puhger,Kyle,Key Personnel,Fox,PostDoc,0000-0002-3023-628X
+Fan,Yujie,Key Personnel,Gradinaru,PostDoc,0000-0001-8642-0695
+Parra Rivas,Leonardo,Key Personnel,Roy,PostDoc,0000-0002-6707-1255
+Aulston,Brent,Key Personnel,Roy,PostDoc,0000-0001-6865-0577
+Cerada,Veronica,Key Personnel,Roy,PostDoc,0000-0002-6285-1201
+Kearney,Patrick,Key Personnel,Roy,PostDoc,0000-0002-7145-5964
+Ekaputri,Stella,Key Personnel,Mazmanian,PostDoc,0000-0002-4813-5006
+Mar'i,Joud,Key Personnel,Van Valen,Grad Student,0000-0002-3431-007X
+Qu,Zhe,Key Personnel,Gradinaru,Research Scientist,0009-0001-6323-9305
+Simpson,Patrick,Key Personnel,Mazmanian,Research Scientist,0009-0000-7328-1921
+Zhou,Manxuan,Key Personnel,Mazmanian,Grad Student,0000-0002-1553-7674
+Griffiths,Jessica,Key Personnel,Mazmanian,Grad Student,0000-0002-5586-1567
+Wolfe,Damien,Key Personnel,Gradinaru,Research Scientist,0000-0003-3005-6788
+Lin,Changfan,Key Personnel,Gradinaru,PostDoc,0000-0002-8119-9845
+Sharma,Jitendra,Key Personnel,Fox,Research Scientist,0000-0003-4197-9510
+Aryee,Ebenezer,Key Personnel,Seifert,Grad Student,0000-0002-3703-0559
+Shay,Tim,Key Personnel,Gradinaru,Research Scientist,0000-0001-6591-3271
+Mayfield,Acacia,Key Personnel,Gradinaru,PostDoc,0000-0001-7308-6480
+Tomanic,Tamara,Key Personnel,Roy,PostDoc,0000-0002-3266-1271
+Hafler,David,Lead-PI,Hafler,Jefe,0000-0003-4664-535X
+Chandra,Sreeganga,Co-PI,Hafler,Jefe,0000-0001-9035-1733
+Chang,Rui,Co-PI,Hafler,Jefe,0000-0001-6953-2943
+Palm,Noah,Co-PI,Hafler,Jefe,0000-0001-7262-9455
+Xavier,Ramnik,Co-PI,Xavier,Jefe,0000-0002-5630-5167
+Buitrago-Pocsangre,Nick,Proj Mgr,Hafler,Research Assoc,0000-0002-1333-4435
+Cedarbaum,Jesse,Collaborator,Hafler,Jefe,0000-0003-3911-9925
+Graham,Daniel,Key Personnel,Xavier,Faculty,0000-0002-8403-8115
+Koo,Brian,Collaborator,Hafler,Jefe,0000-0003-0166-5074
+van Dijk,David,Collaborator,Hafler,Jefe,0000-0002-5146-8784
+DJ,Vidyadhara,Personnel,Chandra,PostDoc,0000-0003-0974-0307
+Zeng,Jialiu,Personnel,Chandra,PostDoc,0000-0001-7802-1432
+Leopold,Shana,Key Personnel,Palm,Lab Mgr,0000-0001-5830-1955
+Deguine,Jacques,Key Personnel,Xavier,Director,0000-0001-9218-3040
+Zhao,Qiancheng,Personnel,Chang,PostDoc,0000-0002-0696-8667
+Martin,Anjelica,Personnel,Palm,Research Assoc,0000-0001-9669-8842
+Khetrapal,Varnica,Personnel,Palm,PostDoc,0000-0003-2913-9375
+Allnut,Mary Alice,Personnel,Chandra,Grad Student,0000-0002-1093-4013
+Videnovic,Aleks,Collaborator,Videnovic,Jefe,0000-0002-9237-1516
+Zhu,Biqing,Personnel,Hafler,Grad Student,0000-0002-7428-6297
+Wang,Haowei,Personnel,Hafler,Research Assoc,0000-0002-5420-1153
+Russo,Anthony,Personnel,Hafler,Research Assoc,0000-0002-0623-6618
+Mead,Kara,Personnel,Hafler,Clinical Coordinator,0000-0002-1166-1125
+Elkolaly,Salma,Personnel,Hafler,Research Assoc,0000-0003-0226-503X
+Zhao,Angela,Personnel,Chandra,Undergrad Student,0009-0004-5907-1804
+Islam,Rafiad,Personnel,Hafler,Research Assoc,0000-0001-5039-6240
+Corbin-Stein,Nicole,Personnel,Hafler,PostDoc,0000-0003-0820-0085
+Aditya,Bajaj,Personnel,Xavier,PostDoc,0000-0002-6738-0031
+Lily,Rothschild,Personnel,Xavier,,0000-0002-1295-8764
+Li,Chung-Jung,Personnel,Chandra,PostDoc,0000-0002-4114-3628
+Tian,Weiyi,Personnel,Chandra,Grad Student,0009-0005-7134-9271
+Yasumizu,Yoshiaki,Personnel,Hafler,Research Assoc,0000-0002-9872-4909
+Harmon,Leah,Personnel,Chandra,Grad Student,0000-0001-7102-8586
+Lingjia,Kong,Personnel,Xavier,Research Assoc,0000-0003-1016-030X
+Young,Lindsay,Halfer Admin,Hafler,Sr Admin Asst,
+Moore,Greg,Palm Admin,Palm,Admin,
+Grimm,Courtney,Assoc Director,Hafler,Finance Director,
+Hardy,John,Lead-PI,Hardy,Jefe,0000-0002-3122-0423
+Platt,Frances,Co-PI,Platt,Jefe,0000-0001-7614-0403
+Spillantini,Maria Grazia,Co-PI,Spillantini,Jefe,0000-0002-8544-7332
+Ryten,Mina,Co-PI,Ryten,Jefe,0000-0001-9520-6957
+Jaunmuktane,Zane,Co-PI,Jaunmuktane,Jefe,0000-0001-7738-8881
+Avwenagha,Oke,Proj Mgr,Hardy,Proj Mgr,0000-0002-8357-9315
+Fairbrother-Browne,Aine,Key Personnel,Ryten,Research Fellow,0000-0002-7196-1410
+Martinez-Carrasco,Alejandro,Key Personnel,Morris,PhD Student,0000-0001-6191-1703
+Hicks,Amy,Key Personnel,Plun-Favreau,PhD Student,0000-0002-3965-5253
+Hicks,Amy,Key Personnel,Ryten,PhD Student,0000-0002-3965-5253
+Gil Martinez,Ana Luisa,Key Personnel,Morris,PostDoc,0000-0001-8455-5676
+Wernick,Anna,Key Personnel,Plun-Favreau,PhD Student,0000-0001-9048-9492
+Costa,Beatrice,Key Personnel,Plun-Favreau,PhD Student,0000-0002-3508-8757
+O'Callaghan,Benjamin,Key Personnel,Plun-Favreau,PostDoc,0000-0002-1323-6843
+De Talhouet,Capucine,Key Personnel,Plun-Favreau,PhD Student,0000-0001-5958-0693
+Manzoni,Claudia,Key Personnel,Schapira,Jefe,0000-0001-5367-4023
+Karishma,D'Sa,Key Personnel,Ryten,PostDoc,0000-0003-1266-419X
+Taylor te Vruchte,Danielle,Key Personnel,Platt,Research Asst,0000-0002-1709-1709
+Priestman,David,Key Personnel,Platt,Senior PostDoc Research Assoc,0000-0002-0030-0148
+Shoai,Maryam,Key Personnel,Hardy,PostDoc,0000-0003-2499-8533
+Garcia Ruiz,Sonia,Key Personnel,Plun-Favreau,PostDoc Research Assoc,0000-0003-4913-5312
+Jabbari,Ed,Key Personnel,Morris,PhD Student,0000-0001-6844-882X
+Deangeli,Giulio,Key Personnel,Spillantini,PhD Student,0000-0001-8894-9955
+Brandes,Janine,Key Personnel,Spillantini,PostDoc,0000-0002-2959-1081
+Brenton,Jonathon,Key Personnel,Ryten,PostDoc Research Assoc,0000-0002-2381-8484
+Botia,Juan,Key Personnel,Ryten,Affiliated Senior Researcher,0000-0002-6992-598X
+Smalley,June,Key Personnel,Hardy,Personal Asst,0000-0001-9080-1319
+Kelly,Katie,Key Personnel,Plun-Favreau,PhD Student,0000-0002-9466-1680
+Wallom,Kerri,Key Personnel,Platt,PostDoc Research Assoc,0000-0002-2842-1275
+Mok,Kin,Key Personnel,Hardy,Professor,0000-0003-3145-880X
+Wu,Lesley,Key Personnel,Morris,Masters Student,0000-0001-5464-5603
+Bacioglu,Methap,Key Personnel,Spillantini,PostDoc Researcher,0000-0003-0304-7026
+Lewis,Patrick,Co-PI,Lewis,Jefe,0000-0003-4537-0489
+Plun-Favreau,Helene,Co-PI,Plun-Favreau,Jefe,0000-0002-1401-9656
+Morris,Huw,Co-PI,Schapira,Jefe,0000-0002-5473-3774
+Real,Raquel,Key Personnel,Morris,Clinical Research Assoc,0000-0001-8117-742X
+Herbst,Susanne,Key Personnel,Lewis,Senior Research Assoc,0000-0003-2255-7371
+Zheng,Kevin (Zhiguang),Key Personnel,Spillantini,Research Asst,0000-0003-1675-2912
+Duffy,Hannah,Key Personnel,Platt,PhD Student,0000-0002-0358-6997
+Zhang,Qiaochu,Key Personnel,Platt,PhD Student,0000-0003-3554-9215
+Stafford,Ellie,Key Personnel,Morris,Research Asst,0000-0003-2451-4308
+Bhore,Noopur,Key Personnel,Lewis,PostDoc Researcher,0000-0002-9176-1395
+Curless,Toby,Key Personnel,Jaunmuktane,Research Technician,0000-0002-3277-7813
+Trasobares Magdalena,Iria,Key Personnel,Plun-Favreau,PhD Student,0000-0001-6918-3974
+Lim,Yau Mun,Key Personnel,Jaunmuktane,PostDoc Researcher,0000-0002-8774-9537
+Vessiere,Pauline,Key Personnel,Spillantini,PhD Student,0000-0003-2217-4725
+Andrews,Charlotte,Key Personnel,Plun-Favreau,Mres Student,0000-0002-7069-5616
+Nelvagal,Hemanth,Key Personnel,Jaunmuktane,PostDoc Reseacher,0000-0003-2407-4517
+Sabir,Marya,Key Personnel,Platt,PhD Student,0000-0001-6333-4049
+Bush,Reuben,Key Personnel,Platt,Research Technician,0000-0001-7711-8806
+Fernandez-Suarez,Maria,Key Personnel,Platt,Research Assoc,0000-0003-4277-2079
+Šoltić,Darija,Key Personnel,Plun-Favreau,PostDoc Researcher,0009-0000-3151-6016
+Cosker,Katharina,Key Personnel,Plun-Favreau,Senior Research Assoc,0009-0009-7766-5469
+Yu,Samantha,Key Personnel,Plun-Favreau,PhD Student,0000-0001-5321-0536
+Cuenca-Bermejo,Lorena,Key Personnel,Plun-Favreau,PostDoc Researcher,0000-0003-1589-2139
+Lau,Harry,Key Personnel,Plun-Favreau,Research Asst,0009-0007-6803-1152
+Loh,Caitlin,Key Personnel,Plun-Favreau,Research Technician,0009-0006-7305-3885
+Strusi,Gabriele,Key Personnel,Spillantini,PostDoc Researcher,0000-0002-7022-2480
+van Kruining,Daan,Key Personnel,Platt,PostDoc Research Fellow,0000-0001-9329-7744
+Abramovich,Juliana,Key Personnel,Frydman,Research Technician,0000-0001-9466-979X
+Adolf,Frank,Key Personnel,Schulman,PostDoc,0000-0002-9812-5711
+Baumeister,Wolfgang,Key Collaborator,Baumeister,Jefe,0000-0001-8154-8809
+Bieber,Anna,Key Personnel,Baumeister,Grad Student,0000-0001-5014-6620
+Capitanio,Cristina,Key Personnel,Schulman,Grad Student,0000-0002-5297-9156
+Chou,Ching Chieh (Ian),Key Personnel,Frydman,Research Fellow,0000-0001-8302-2915
+Do,Thanh Thao,Key Personnel,Fernandez-Busnadiego,Grad Student,0009-0004-2374-5803
+Dransfeld,Ulrich,Key Personnel,Hartl,Grad Student,0000-0002-4054-5852
+Du,Jiale,Key Personnel,Schulman,PostDoc,0000-0003-1410-7020
+Ehses,Kenneth,Key Personnel,Fernandez-Busnadiego,Grad Student,0000-0002-8595-5994
+Fernandez-Busnadiego,Ruben,Co-PI,Fernandez-Busnadiego,Jefe,0000-0002-8366-7622
+Frydman,Judith,Co-PI,Frydman,Jefe,0000-0003-2302-6943
+Fu,Tao,Key Personnel,Harper,PostDoc,0000-0003-1783-2631
+Galesic,Ana,Key Personnel,Harper,PostDoc,0000-0003-1899-814X
+Garhammer,Maximilian,Key Personnel,Hartl,Grad Student,0000-0002-9755-4733
+Gonzalez,Miguel,Key Personnel,Harper,PostDoc,0000-0002-7837-151X
+Goodall,Ellen,Key Personnel,Harper,PostDoc,0000-0001-9876-5973
+Harper,J. Wade,Lead-PI,Harper,Jefe,0000-0002-6944-7236
+Hartl,Franz-Ulrich,Co-PI,Hartl,Jefe,0000-0002-7941-135X
+Hickey,Kelsey,Key Personnel,Harper,PostDoc,0000-0001-9904-0966
+Hollingsworth,"Louis ""Bobby""",Key Personnel,Harper,PostDoc,0000-0002-4130-3580
+Hoyer,Melissa,Key Personnel,Harper,PostDoc,0000-0003-0858-4998
+Hundley,Frances,Key Personnel,Harper,PostDoc,0000-0001-9469-301X
+Hussain,Nazia,Key Personnel,Fernandez-Busnadiego,PostDoc,0000-0002-4391-5353
+Jayaraj,Gopal,Key Personnel,Hartl,PostDoc,0000-0001-8197-5122
+Jiang,Yizhi,Key Personnel,Harper,Lab Technician,0000-0001-9016-1104
+Kiss,Leo,Key Personnel,Schulman,PostDoc,0000-0001-8735-1118
+Kraus,Felix,Proj Mgr,Harper,Proj Mgr,0000-0002-3757-541X
+Lee,Tina,Key Personnel,Frydman,Lab Technician,0000-0003-1010-3292
+Lee,Chan,Key Personnel,Harper,PostDoc,0000-0002-5512-8146
+Li,Lisa,Key Personnel,Frydman,PostDoc,0000-0001-5478-8970
+Madero,Angel,Key Personnel,Frydman,Grad Student,0000-0002-6238-4658
+Masto,Vince,Key Personnel,Frydman,Grad Student,0000-0001-8858-7798
+Petrovic,Arsen,Key Personnel,Fernandez-Busnadiego,PostDoc,0000-0003-4448-4230
+Prabu,Rajan Jesuraj,Key Personnel,Schulman,PostDoc,0000-0002-7726-9310
+Ranen,Aviner,Key Personnel,Frydman,PostDoc,0000-0002-2476-6487
+Rios,Midea Ortiz,Key Personnel,Fernandez-Busnadiego,Grad Student,0000-0001-9431-4251
+Saha,Itika,Key Personnel,Hartl,PostDoc,0000-0002-0289-4082
+Schulman,Brenda,Co-PI,Schulman,Jefe,0000-0002-3083-1126
+Sicking,Kevin,Key Personnel,Fernandez-Busnadiego,PostDoc,0000-0001-8828-835X
+Siegert,Anna,Key Personnel,Fernandez-Busnadiego,PostDoc,
+Silvan,Pinto,Key Personnel,Frydman,PostDoc,0000-0002-1087-8779
+Sitron,Cole,Key Personnel,Hartl,PostDoc,0000-0001-6584-5926
+Tarutani,Airi,Key Personnel,Fernandez-Busnadiego,PostDoc,0000-0003-3835-9070
+Wilfling,Florian,Key Personnel,Schulman,Assocd Groupleader,0000-0002-6559-7261
+Yuste-Cheka,Patricia,Key Personnel,Hartl,PostDoc,0000-0002-1056-3849
+Cook,Aslan,Key Personnel,Harper,Lab Technician,0009-0009-2901-3001
+Schroeter,Christina,External Collaborator,Harper,PostDoc,0000-0002-1391-7817
+Hurley,James,Lead-PI,Hurley,Jefe,0000-0001-5054-5445
+Holzbaur,Erika,Co-PI,Holzbaur,Jefe,0000-0001-5389-4114
+Lazarou,Michael,Co-PI,Lazarou,Jefe,0000-0003-2150-5545
+Martens,Sascha,Co-PI,Martens,Jefe,0000-0003-3786-8199
+Park,Eunyong,Co-PI,Park,Jefe,0000-0003-2994-5174
+Fracchiolla,Dorotea,Proj Mgr,Hummer,PostDoc,0000-0002-1612-5225
+Khuu,Grace,Key Personnel,Lazarou,Research Asst,0000-0002-2550-0605
+Nguyen,Thanh,Key Personnel,Lazarou,PostDoc,0000-0001-9698-0020
+Dea,Catherine,Acting Proj Mgr,Hurley,Admin Officer,0000-0003-3715-4479
+Hummer,Gerhard,Paid Collaborator,Hummer,Jefe,0000-0001-7768-746X
+Min,Kyungjin,Key Personnel,Park,PostDoc,0000-0002-9864-2022
+Sawa-Makarska,Justyna,Key Personnel,Martens,PostDoc,0000-0002-9321-976X
+Adriaenssens,Elias,Key Personnel,Martens,PostDoc,0000-0001-9430-917X
+Lam,Wai Kit (Leo),Key Personnel,Lazarou,PostDoc,0000-0002-7433-9205
+Lindblom,Runa,Key Personnel,Lazarou,PostDoc,0000-0001-6755-8744
+Tudorica,Dan,Key Personnel,Hurley,Grad Student,0000-0003-0337-5150
+Cook,Zeke/Annan,Key Personnel,Hurley,Grad Student,0000-0001-6415-9107
+Riley,Julia,Key Personnel,Holzbaur,,0000-0001-8518-9786
+Basak,Bishal,Key Personnel,Holzbaur,PostDoc,0000-0003-4496-4162
+Holzer,Elisabeth,Key Personnel,Martens,Grad Student,0000-0003-1806-737X
+Palumbos,Sierra,Key Personnel,Holzbaur,PostDoc,0000-0002-3595-984X
+Ren,Xuefeng,Key Personnel,Hurley,Research Technician,0000-0002-4822-4316
+Minghao,Chen,Key Personnel,Hurley,Asst Project Scientist,0000-0002-7668-3974
+Uoselis,Louise,Key Personnel,Lazarou,Grad Student,0000-0001-8538-9817
+Claveras,Ainara,Key Personnel,Hummer,Grad Student,0000-0003-1400-4929
+Herrman,Eric,Key Personnel,Hurley,PostDoc,0000-0003-0499-0083
+Bo Kyung (Amy),Jung,Key Personnel,Park,Grad Student,0009-0000-9257-3997
+Neha,Nataraj,Key Personnel,Holzbaur,PostDoc,0000-0003-0117-2026
+Sanjoy,Paul,Key Personnel,Hummer,PostDoc,0000-0001-5040-8002
+Aayush,Srivastava,Key Personnel,Hummer,PostDoc,0009-0007-1500-9584
+Zhicheng (Chen),Cui,Key Personnel,Hurley,PostDoc,0000-0003-2398-9344
+Aaron,Joiner,Key Personnel,Hurley,PostDoc,0000-0001-9049-2384
+Jakobsson,Johan,Lead-PI,Jakobsson,Jefe,0000-0003-0669-7673
+Barker,Roger,Co-PI,Barker,Jefe,0000-0001-8843-7730
+Hammell,Molly,Co-PI,Hammell,Jefe,0000-0003-0405-8392
+Kirkeby,Agnete,Co-PI,Kirkeby,Jefe,0000-0001-8203-6901
+Pettersson,Paulina,Key Personnel,Jakobsson,Resarch Admin,0000-0002-2824-9575
+Garza,Raquel,Key Personnel,Jakobsson,PhD Student,0000-0002-2524-3055
+Sharma,Yogita,Key Personnel,Jakobsson,Bioinformatician,0000-0001-9702-1809
+Tam,Oliver,Key Personnel,Hammell,Computational Science Analyst,0000-0002-1023-3655
+Wunderlich,Cole,Key Personnel,Hammell,PhD Student,0000-0002-6171-888X
+Forcier,Talitha,Key Personnel,Hammell,PostDoc Fellow,0000-0002-7933-5086
+Jones,Jo,Unpaid Collaborator,Barker,Principal Research Assoc,0000-0003-4974-1371
+Williams-Gray,Caroline,Unpaid Collaborator,Barker,Principal Research Assoc,0000-0002-2648-9743
+Curle,Annabel,Unpaid Collaborator,Barker,PhD Student,0000-0002-9105-1131
+Quaegebeur,Annelies,Key Personnel,Barker,Clinical Pathologist,0000-0001-5357-9341
+Karlsson,Ofelia,Key Personnel,Jakobsson,Project Asst,0000-0003-0679-8204
+Adami,Anita,Key Personnel,Jakobsson,PhD Student,0000-0002-9421-7942
+Salvador,Alison,Key Personnel,Kirkeby,Research Asst,0000-0002-3260-1594
+Kajtez,Janko,Key Personnel,Kirkeby,PostDoc Reseacher,0000-0001-9997-2325
+Lagka,Danai,Key Personnel,Kirkeby,Research Asst,0009-0007-9252-3667
+Kazakou,Nina-Lydia,Key Personnel,Kirkeby,PostDoc Researcher,0000-0003-3381-2390
+Castilla-Vallmanya,Laura,Key Personnel,Jakobsson,Proj Mgr/PostDoc Researcher,0000-0002-2260-9664
+Christiansen,Josefine,Key Personnel,Kirkeby,PhD Student,0000-0001-9808-9290
+Bermudez,Sara,Key Personnel,Jakobsson,PostDoc Researcher,0009-0009-0335-4799
+Akkentli,Fatih,Key Personnel,Dawson,Research Specialist,0009-0004-7813-193X
+Chen,Rong,Key Personnel,Dawson,Senior Technician,0000-0001-9291-5539
+Dawson,Ted,Co-PI,Dawson,Jefe,0000-0002-6459-0893
+Dawson,Valina,Co-PI,Dawson,Jefe,0000-0002-2915-3970
+Gadhave,Kundlik,Key Personnel,Dawson,PostDoc,0000-0003-4530-4772
+Jeong,Deok,Key Personnel,Dawson,PostDoc,0000-0001-9029-9662
+Kam,Tae-In,Co-PI,Dawson,Asst Professor,0000-0002-7241-4902
+Ko,Hanseok,Co-PI,Dawson,Professor,0000-0002-0864-5239
+Kumar,Manisha,Key Personnel,Dawson,PostDoc,0000-0002-6956-6032
+Kumbhar,Ramhari,Key Personnel,Dawson,PostDoc,0000-0002-8975-2502
+Mao,Xiaobo,Co-PI,Dawson,Asst Professor,0000-0001-6587-556X
+Song,Jae Jin,Key Personnel,Dawson,PostDoc,0000-0002-2254-3845
+Wang,Ning,Key Personnel,Dawson,PostDoc,0000-0002-3410-8509
+Antoniazzi,Aldana,Key Personnel,Kaplitt,PostDoc,0000-0002-0728-3352
+Haikal,Caroline,Key Personnel,Kaplitt,PostDoc,0000-0002-9066-5940
+Kaplitt,Michael,Lead-PI,Kaplitt,Jefe,0000-0002-8979-2459
+Lathrop,Cooper,Key Personnel,Kaplitt,Medical Student,0009-0006-7070-3547
+Stavarache,Mihaela,Key Personnel,Kaplitt,Instructor,0000-0002-8120-7470
+Torres,Eileen,Proj Mgr,Kaplitt,Proj Mgr,0000-0002-5340-8734
+Unda,Santiago,Key Personnel,Kaplitt,PostDoc,0000-0001-7319-6794
+Winston,Graham,Key Personnel,Kaplitt,Neurosurgery Research Resident,0000-0002-3878-992X
+Marciano,Sabina,Key Personnel,Marongiu,PostDoc,0000-0002-0899-0454
+Marongiu,Roberta,Co-PI,Marongiu,Jefe,0000-0002-7609-7000
+Kolkman,Kristine,Key Personnel,Nishimura,Research Assoc/Lab Mgr,0000-0001-8228-0672
+Nishimura,Nozomi,Co-PI,Nishimura,Jefe,0000-0003-4342-9416
+Schaffer,Chris,Co-PI,Schaffer,Jefe,0000-0002-7800-9596
+Bizimana,Laurie,Key Personnel,Schaffer-Nishimura,PostDoc,0000-0001-9024-4620
+Chiang,Vivian,Key Personnel,Schaffer-Nishimura,Undergrad Student,0000-0001-5779-5906
+Eom,Chi-Yong,Key Personnel,Schaffer-Nishimura,Research Assoc,0000-0003-4578-9298
+Dautan,Daniel,Key Personnel,Svenningsson,PostDoc,0000-0003-1001-5727
+Paslawski,Wojciech,Key Personnel,Svenningsson,Asst Professor,0000-0003-2141-4547
+Svenningsson,Per,Co-PI,Svenningsson,Jefe,0000-0001-6727-3802
+Lamont,Michael,Key Personnel,Nishimura,Research Assoc,0000-0002-2933-0842
+Yancura,Andrew,Key Personnel,Dawson,Research Specialist II,0009-0002-6432-6002
+Haytayan,Jacquelyn,Key Personnel,Kaplitt,Research Technician I,0009-0002-9123-2378
+Kirik,Deniz,Lead-PI,Kirik,Jefe,0000-0002-1360-1265
+Johnston,Jennifer,Co-PI,Johnston,Jefe,0000-0002-4867-9230
+Parish,Clare,Co-PI,Parish,Jefe,0000-0001-8212-9884
+Thompson,Lachlan,Co-PI,Thompson,Jefe,0000-0003-2632-0304
+Sue,Carolyn,Co-PI,Sue,Jefe,0000-0003-1255-3617
+Frausin,Stefano,Key Personnel,Thompson,Research Assoc,0000-0001-8536-5241
+Hunt,Cameron,Key Personnel,Parish,Research Assoc,0000-0002-2295-5866
+Xuereb,Brianna,Key Personnel,Parish,Research Asst,0000-0003-0269-9073
+Halliday,Glenda,Co-PI,Halliday,Jefe,0000-0003-0422-8398
+Davis,Ryan,Key Personnel,Halliday,Research Assoc,0000-0003-0512-8989
+Dzamko,Nicolas,Key Personnel,Halliday,Senior Research Assoc,0000-0002-9121-0294
+Cottle,Louise,Key Personnel,Thompson,PostDoc Researcher,0000-0002-5278-0251
+Wright,Courtney,Proj Mgr,Kirik,Proj Mgr And PostDoc Researcher,0000-0002-4068-0288
+Fraser,Tyra,Key Personnel,Thompson,PhD Student,0000-0002-4395-5830
+Viventi,Serena,Key Personnel,Thompson,Research Assoc,0000-0002-6632-5911
+Ovchinnikov,Dmitry,Key Personnel,Thompson,Research Assoc,0000-0001-9603-8385
+Pavan,Chiara,Key Personnel,Parish,PhD Student,0000-0002-2890-7021
+Prasad,Asheeta,Key Personnel,Kirik,Senior Research Assoc,0000-0001-9752-8175
+Sagredo,Giselle,Key Personnel,Halliday,PhD Student,0000-0003-4318-0331
+Jin,Jennifer,Key Personnel,Thompson,PostDoc Researcher,0000-0001-8287-4075
+Yu,Kwan,Key Personnel,Thompson,Research Officer,0000-0002-1925-5316
+Cormac,Peat,Key Personnel,Kirik,PhD Student,0000-0002-2474-1554
+Jessica,Chedid,Key Personnel,Halliday,Research Assoc,0000-0001-7985-5148
+Andersson,My,Key Personnel,Kirik,Research Assoc,0000-0003-3699-138X
+Andresen,Sofie,Key Personnel,Thompson,Research Assoc,
+Suteja,Felicia,Key Personnel,Halliday,Research Assoc,0009-0009-9217-9442
+Law,Kevin,Key Personnel,Thompson,Research Assoc,0000-0001-6652-0445
+Bricker,Rebecca,Key Personnel,Thompson,Research Assoc,0000-0002-4757-4760
+Gordon,Qian,Key Personnel,Halliday,PostDoc Researcher,0000-0001-9603-6275
+Kordower,Jeffrey,Lead-PI,Kordower,Jefe,0000-0001-8629-3294
+Harms,Ashley,Co-PI,Harms,Jefe,0000-0002-7054-2812
+Hirst,Warren,Co-PI,Hirst,Jefe,0000-0003-0389-8891
+Manfredsson,Fredric,Co-PI,Manfredsson,Jefe,0000-0001-5802-5487
+Landay,Alan,Key Personnel,Kordower,Professor,0000-0001-9645-1356
+Chu,Yaping,Key Personnel,Kordower,Asst Professor,0000-0002-9112-6295
+Muller,Scott,Key Personnel,Kordower,Primate Mgr,0000-0002-5379-1331
+Molina,Jeremy,Key Personnel,Kordower,Research Tech,0000-0002-6119-1125
+Hauser,Kyle,Key Personnel,Kordower,Research Tech,0000-0002-2351-3728
+Gupta,Vineet,Key Personnel,Kordower,Collaborator,0000-0001-6987-2550
+Volpicelli‐Daley,Laura,Key Personnel,Harms,Collaborator,0000-0001-8934-4018
+Herskowitz,Jeremy,Key Personnel,Harms,Collaborator,0000-0002-7227-1470
+Jurkuvenaite,Asta,Key Personnel,Harms,Research Scientist,0000-0002-9193-5797
+Webster,Jhodi,Key Personnel,Harms,PhD Student,0000-0001-8230-6174
+Hampton,Lucas,Key Personnel,Hirst,Research Scientist,0000-0002-7590-9580
+Spiegelman,Bruce,Key Personnel,Kordower,Professor,0000-0002-7658-4802
+Shaw,Ameera,Key Personnel,Gupta,PhD Student,0000-0001-9865-9492
+Kamraj,Sowmya,Key Personnel,Gupta,Research Tech,0009-0005-8892-9053
+Youssef,Mohamed,Key Personnel,Gupta,PostDoc Fellow,
+Vattikota,Anirudh,Key Personnel,Gupta,Research Tech,
+Glajch,Kelly,Key Personnel,Hirst,Assoc Scientific Director,0000-0003-4727-8547
+Randolph,Josh,Key Personnel,Harms,Research Tech,
+Li,Xiaobo,Key Personnel,Kordower,PostDoc,
+Li,Xiaobo,Key Personnel,Gupta,PostDoc,
+Ledesma,Alonso,Key Personnel,Kordower,Research Tech,
+He,Yinzhen,Key Personnel,Kordower,Research Tech,
+Ollison,Hayla,Proj Mgr,Kordower,Research Specialist,0009-0009-4597-8217
+Stoll,Anna,Key Personnel,Harms,PostDoc,0000-0001-7135-121X
+Lee,Michael,Lead-PI,"Lee,M",Jefe,0000-0003-2691-4532
+Moore,Darren,Co-PI,Moore,Jefe,0000-0003-2359-5679
+Niedernhofer,Laura,Co-PI,Niedernhofer,Jefe,0000-0002-1074-1385
+Robbins,Paul,Key Personnel,Niedernhofer,Research Assoc,0000-0003-1068-7099
+Balster,Jane,Proj Mgr,"Lee,M",Proj Mgr,0000-0002-1901-4037
+Meints,Joyce,Key Personnel,"Lee,M",Researcher 3,0000-0002-9394-9631
+Fang,Cenxiao,Key Personnel,"Lee,M",Research Spec,0000-0002-2138-4520
+Ma,Yue,Key Personnel,Moore,PostDoc,0000-0002-1031-5175
+Erb,Madalynn,Key Personnel,Moore,PostDoc,0000-0002-7651-6826
+Wong,Alec,Key Personnel,Niedernhofer,Researcher 1,0000-0002-1445-0235
+Poddar,Indrani,Key Personnel,"Lee,M",PostDoc,0000-0003-1485-9441
+Vermilyea,Scott,Key Personnel,"Lee,M",PostDoc,0000-0001-7827-8166
+Martinez,Hector,Key Personnel,Niedernhofer,Researcher 3,0000-0002-8949-6158
+Jahan,Mehek,Key Personnel,Niedernhofer,Researcher 1,
+Tappe,Rachel,Key Personnel,"Lee,M",Researcher 1,
+Schlichte,Riley,Key Personnel,"Lee,M",Researcher 1,0009-0005-0014-0438
+Robin,Joe,Key Personnel,Niedernhofer,Researcher 1,
+Courtmanche,Nicole,Key Personnel,"Lee,M",Researcher 1,
+Tiegs,Elizabeth,Key Personnel,"Lee,M",Researcher 1,
+Rowlands,Jordan,Key Personnel,Moore,Researcher 1,
+Perez de Nanclares Fernandez,Carmen,Key Personnel,"Lee,M",Research Assoc,0000-0003-4420-266X
+Hassan,Aminat,Key Personnel,"Lee,M",PostDoc,0000-0003-1359-7945
+Zhang,Ying,Key Personnel,"Lee,M",PostDoc,0000-0003-3764-7329
+Carey,Joshua,Key Personnel,Niedernhofer,Researcher 1,0009-0007-3408-4993
+Soto-Avellaneda,Alex,Key Personnel,Henderson,PostDoc,0000-0003-2600-9639
+Peters,Sam,Key Personnel,Niedernhofer,,0000-0003-1479-8087
+Karim,Razaul,Key Personnel,"Lee,M",Researcher 6,0000-0002-0058-1429
+Phillip,Sam,Key Personnel,"Lee,M",PostDoc,0009-0004-1298-979X
+Van Setters,Ben,Key Personnel,Niedernhofer,Researcher 1,0009-0001-3419-3969
+Liddle,Rodger,Lead-PI,Liddle,Jefe,0000-0002-5498-4151
+Payami,Haydeh,Co-PI,Payami,Jefe,0000-0001-9084-5338
+Sampson,Timothy,Co-PI,Sampson,Jefe,0000-0002-2486-8766
+Tansey,Malú,Co-PI,Tansey,Jefe,0000-0002-1719-4708
+West,Andrew,Co-PI,West,Jefe,0000-0002-3034-4061
+Boddu,Ravindra,Key Personnel,West,Research Scientist & Lab Mgr,0000-0002-4723-9209
+White,Alexandria,Key Personnel,Sampson,Grad Student,0000-0002-9261-9868
+Blackmer-Raynolds,Lisa,Key Personnel,Sampson,Grad Student,0000-0001-5436-174X
+Twa,Guy,Key Personnel,Payami,Grad Student,0000-0002-8409-7844
+Demirkan,Ayse,Key Personnel,Payami,Scientist,0000-0002-7546-0867
+Otero,Brittney,Key Personnel,Tansey,PostDoc,0000-0003-2179-0112
+Martin Pena,Alfonso,Key Personnel,Tansey,Res. Asst. Professor,0000-0001-7598-0777
+Caira,Christina,Key Personnel,West,Grad Student,0000-0003-2542-5462
+Chavez,Katherine,Key Personnel,Liddle,Proj Mgr,0000-0001-8952-385X
+Jernigan,Janna,Key Personnel,Tansey,Grad Student,0000-0003-0771-384X
+Williamson,Ian,Key Personnel,Liddle,PostDoc,0000-0003-2795-6099
+Menees,Kelly,Key Personnel,Tansey,PostDoc,0000-0003-4282-8546
+Sokratian,Arpine,Key Personnel,West,Grad Student,0000-0001-6654-5773
+Gounder,Senthil,Proj Mgr,Liddle,Proj Mgr,0000-0002-3281-9913
+Krout,Ian,Key Personnel,Sampson,PostDoc,0000-0002-4711-8757
+Lei,Beilei,Key Personnel,Liddle,Research Analyst,
+Fraccaroli,Isabel,Key Personnel,Sampson,Lead Research Specialist,0000-0002-2069-9790
+Murchison,Charles (Chad),Key Personnel,Payami,Faculty Collaborator,0009-0007-5589-8144
+Verster,Adrian,Key Personnel,Payami,Freelance Bioinformatician,0009-0003-5039-0780
+Wallen,Zachary,Key Personnel,Payami,Consultant,0000-0002-2278-7348
+Merchak,Andrea,Key Personnel,Tansey,PostDoc,0000-0002-0180-6044
+Bolen,Mackenzie,Key Personnel,Tansey,Grad Student,0000-0003-1973-3784
+Patel,Vanita,Key Personnel,Liddle,Research Technician,0009-0004-1910-1773
+Wallings,Rebecca,Key Personnel,Tansey,PostDoc Fellow,0000-0003-3878-291X
+Naqvi,Ibtehaj,Key Personnel,Liddle,PostDoc Fellow,0000-0002-0188-5942
+Viverette,Elizabeth,Key Personnel,West,PhD Student,0000-0002-5173-5838
+Lipson,Lyndsey,Key Personnel,Sampson,Research Specialist,0009-0008-8628-9752
+Reck-Peterson,Samara,Lead-PI,Reck-Peterson,Jefe,0000-0002-1553-465X
+Knapp,Stefan,Co-PI,Knapp,Jefe,0000-0001-5995-6494
+Leschziner,Andres,Co-PI,Leschziner,Jefe,0000-0002-7732-7023
+Stengel,Florian,Co-PI,Stengel,Jefe,0000-0003-1447-4509
+Villa,Elizabeth,Co-PI,Villa,Jefe,0000-0003-4677-9809
+Mathea,Sebastian,Key Personnel,Knapp,PostDoc,0000-0001-8500-4569
+Hutchings,Josh,Key Personnel,Villa,PostDoc,0000-0001-6841-8583
+Heid,Peter,Co-PI,Stengel,Grad Student,0000-0002-2388-1379
+Jansen,Jasmin,Co-PI,Stengel,Grad Student,0000-0003-3545-7134
+Chatterjee,Deep,Key Personnel,Knapp,PostDoc,0000-0001-8190-9213
+Sanz-Murillo,Marta,Key Personnel,Leschziner,PostDoc,0000-0002-6175-9315
+Louro,Jaime Alegrio,Key Personnel,Leschziner,PostDoc,0000-0002-2800-923X
+Young,Lindsey,Key Personnel,Villa,PostDoc,0000-0003-3494-8302
+Mahesula,Swetha,Key Personnel,Reck-Peterson,Staff Scientist,0000-0002-1569-6587
+Kraus,Tom,Co-PI,Stengel,Grad Student,0000-0002-2059-813X
+Röhm,Sandra,Key Personnel,Knapp,PostDoc,0000-0003-3999-712X
+Raig,Nicolai,Key Personnel,Knapp,Grad Student,0000-0002-2075-7938
+Abrisch,Robert,Key Personnel,Reck-Peterson,PostDoc,0000-0002-4231-9971
+Basiashvili,Tamar,Key Personnel,Villa,Grad Student,0000-0003-0394-3832
+Chen,Siyu,Key Personnel,Villa,PostDoc,0000-0003-4565-4772
+Villagran-Suarez,Amalia,Key Personnel,Leschziner,Grad Student,0000-0003-3400-2330
+Fagiewicz,Robert,Proj Mgr,Leschziner,PostDoc,0000-0002-7113-4941
+Wendel,Marcel,Co-PI,Stengel,,
+Surridge,Katy,Key Personnel,Reck-Peterson,PostDoc,0000-0003-0048-5784
+Nguyen,Landon,Key Personnel,Reck-Peterson,Research Assoc,0000-0001-7482-4668
+Karasmanis,Eva,Key Personnel,Reck-Peterson,PostDoc,0000-0002-0139-0210
+Xiong,Erica,Key Personnel,Leschziner,Technician,0009-0000-8023-5720
+Hatch,Katie,Key Personnel,Reck-Peterson,Grad Student,0000-0002-8629-0939
+Pagani,Niels,Key Personnel,Leschziner,Intern,0009-0009-8124-5942
+Dederer,Verena,Key Personnel,Knapp,,0009-0006-7557-5388
+Shaikh,Farhaz,Key Personnel,Villa,Research Assoc,0009-0002-0452-5675
+Bodrug,Tanya,Key Personnel,Leschziner,PostDoc,0000-0001-9017-962X
+Flaherty,Alex,Key Personnel,Villa,UnderGraduate Student,0009-0001-2779-2082
+Rio,Donald,Lead-PI,Rio,Jefe,0000-0002-4775-3515
+Bateup,Helen,Co-PI,Bateup,Jefe,0000-0002-0135-0972
+Hockemeyer,Dirk,Co-PI,Hockemeyer,Jefe,0000-0002-5598-5092
+Soldner,Frank,Co-PI,Soldner,Jefe,0000-0002-7102-8655
+Lee,Yeon,Key Personnel,Rio,Asst Project Scientist,
+Snyder,Devin,Proj Mgr,Rio,,0000-0001-8528-7538
+Li,Hanqin,Key Personnel,Hockemeyer,PostDoc,
+Dunnack,Jesse,Key Personnel,Hockemeyer,Grad Student,0000-0002-0387-0090
+Dunnack,Jesse,Key Personnel,Bateup,Grad Student,0000-0002-0387-0090
+Poser,Steven,Key Personnel,Soldner,Lab Mgr,
+Busquets Figueras,Oriol,Key Personnel,Soldner,PostDoc,0000-0002-1372-9699
+Lo Bu,Riana,Key Personnel,Soldner,Grad Student,
+Syed,Khaja,Key Personnel,Hockemeyer,PostDoc,0000-0002-7682-7608
+Syed,Khaja,Key Personnel,Bateup,PostDoc,0000-0002-7682-7608
+Sahagun,Atehsa,Key Personnel,Bateup,Grad Student,
+Diaz,Jessica,Key Personnel,Soldner,Prep Student,
+Booth,Ezgi,Proj Mgr,Rio,Proj Mgr,0000-0001-9213-8426
+Gonzalez-Calatayud,Maria,Key Personnel,Soldner,Research Asst,
+Preetham,Atul,Key Personnel,Hockemeyer,Research Assoc,
+Haerle,Maja,Key Personnel,Soldner,Grad Student,
+Huang,Cheng-Yen (Nick),Key Personnel,Soldner,Rotation Student,
+Simon,Vivien,Key Personnel,Hockemeyer,Intern,
+Gao,Jianpu,Key Personnel,Hockemeyer,UnderGraduate Researcher,
+Altmaier,Saskia,Key Personnel,Bateup,Intern,
+Paatz,Sarah,Key Personnel,Hockemeyer,Intern,
+Schapira,Anthony,Lead-PI,Schapira,Jefe,0000-0002-3018-3966
+Blandini,Fabio,Co-PI,Blandini,Jefe,0000-0002-0178-1289
+Deleidi,Michela,Co-PI,Deleidi,Jefe,0000-0003-0357-0124
+Di Monte,Donato,Co-PI,Di Monte,Jefe,0000-0002-8296-836X
+Almeida,Mathieu,Co-PI,Almeida,Jefe,0000-0003-4971-0049
+Ehrlich,Stanislav,Co-PI,Schapira,,0000-0002-7563-4046
+Blottiere,Hervé,Co-PI,Blottiere,Jefe,0000-0002-8390-0607
+Macnaughtan,Jane,Co-PI,Schapira,,0000-0003-1211-9298
+Pons,Nicolas,Key Personnel,Almeida,"Research Engineer, Operational Mgr",0000-0003-1926-8077
+Galleron,Nathalie,Key Personnel,Almeida,Operational Mgr,0000-0001-8460-6445
+Morabito,Christian,Key Personnel,Almeida,"Research Assoc, Operational Mgr",0000-0002-3193-7299
+Ulusoy,Ayse,Key Personnel,Di Monte,Staff Scientist,0000-0003-2840-3429
+O'Sullivan,Sinead,Key Personnel,Di Monte,PostDoc,0000-0003-1909-0803
+Koletsi,Sofia,Proj Mgr,Schapira,,0000-0002-6661-7797
+Avenali,Micol,Key Personnel,Blandini,Clinical Research Fellow - PhD Student,0000-0002-7880-9921
+Cerri,Silvia,Key Personnel,Blandini,Senior Research Scientist,0000-0002-6466-5381
+Valente,Enza Maria,Key Personnel,Blandini,Senior Research Scientist,0000-0002-0600-6820
+Pisani,Antonio,Key Personnel,Blandini,Senior Reserach Scientist,0000-0002-8432-594X
+Perez,Maria Jose,Key Personnel,Deleidi,PostDoc,0000-0001-8842-4286
+Le Chatelier,Emmanuelle,Key Personnel,Almeida,Senior Research Scientist,0000-0002-2724-0536
+Menozzi,Elisa,Key Personnel,Schapira,PhD Student,0000-0003-3565-7910
+Toffoli,Marco,Key Personnel,Schapira,PhD Student,0000-0002-3255-9648
+Gegg,Matthew,Key Personnel,Schapira,PostDoc,0000-0001-8093-0723
+Uras,Giuseppe,Key Personnel,Schapira,PostDoc,0000-0003-3494-8521
+Lucas Del Pozo,Sara,Key Personnel,Schapira,PhD Student,0000-0002-5431-8204
+Chau,David (KaiYin),Key Personnel,Schapira,Senior Research Scientist/Lab Mgr,0000-0002-5797-2922
+Spanos,Fokion,Key Personnel,Deleidi,Doctoral Candidate,0000-0002-0753-4561
+La Vitola,Pietro,Key Personnel,Di Monte,PostDoc,0000-0001-7415-0739
+Galandra,Caterina,Key Personnel,Blandini,Data Mgr,0000-0002-7048-814X
+Bates,Rachel,Key Personnel,Schapira,PostDoc,0000-0002-4768-6869
+Lee,Chiao-Yin,Key Personnel,Schapira,PhD Student,0000-0003-1117-3006
+Bertoli,Federico,Key Personnel,Deleidi,Research Asst,0000-0001-5600-1190
+Weißleder,Christin,Key Personnel,Deleidi,PostDoc,0000-0001-8858-9590
+Taanman,Jan-Willem,Key Personnel,Schapira,Assoc Professor,0000-0002-5476-9785
+Mezabrovschi,Roxana,Key Personnel,Schapira,Research Asst,0000-0001-8580-0629
+Harbachova,Eugenia,Key Personnel,Di Monte,PostDoc,0000-0001-9639-4849
+Yalkic,Selen,Key Personnel,Schapira,Research Asst,0000-0002-9811-6612
+Ongari,Gerardo,Key Personnel,Blandini,PhD Student,0000-0003-0151-0910
+Meslier,Victoria,Key Personnel,Almeida,Research Scientist,0000-0003-2699-0092
+Quinquis,Benoit,Key Personnel,Almeida,"Research Assoc, Operational Mgr",0000-0002-7573-969X
+Rollar,Angela,Key Personnel,Di Monte,PhD Student,0000-0003-1016-6912
+Ezzine,Chaima,Key Personnel,Almeida,PostDoc,0000-0002-5642-5337
+Mitrotti,Pierfrancesco,Key Personnel,Blandini,Clinical Research Fellow,0000-0003-3574-1290
+Colombo,Laura,Key Personnel,Deleidi,PostDoc,0000-0002-3458-8127
+Raji,Hariam,Key Personnel,Deleidi,Research Assoc,0000-0002-2705-8857
+Loefflad,Nadine,Key Personnel,Schapira,Research Asst,0000-0002-9940-7750
+Fierli,Federico,Key Personnel,Schapira,Research Asst,0000-0002-8259-2067
+Nazeer,Aleesa,Key Personnel,Schapira,Research Asst,0000-0003-1642-8370
+Carr,Heidi,Key Personnel,Schapira,Reseasrch Asst,0000-0001-6633-8774
+Calabrese,Rosaria,Key Personnel,Blandini,Research Asst,0009-0008-6632-4653
+Famechon,Alexandre,Key Personnel,Almeida,Lab Technician,0009-0009-6298-3755
+Giachino,Carmela,Key Personnel,Deleidi,PostDoc,0000-0003-3650-8677
+Shahar Golan,Revi,Key Personnel,Schapira,Research Technician,0009-0004-2441-6091
+Szegö,Eva,Key Personnel,Di Monte,Research Fellow,0000-0002-2629-2131
+Takhi,Anushka,Key Personnel,Di Monte,Research Asst,0009-0007-4646-132X
+Stiuso,Rita,Key Personnel,Blandini,Biotechnician,0009-0007-5595-9066
+Lejard,Véronique,Key Personnel,Almeida,High Throughput Functional Screening Expert Supervisor,0009-0002-9721-9588
+Giat,Margot,Key Personnel,Almeida,"Sample Treatment, Aliquoting And Dna Extraction Processing",
+Plaza-Oñate,Florian,Key Personnel,Almeida,Microbiome Data Scientist,0000-0001-6036-0989
+Dime,Sébastien,Key Personnel,Almeida,Administration Supervisor,
+Santos,Renata,Key Personnel,Deleidi,Scientist,0000-0002-3085-5128
+Renard,France,,Deleidi,PhD Student,0009-0008-5849-9904
+LASMARRIGUES,Romane,,Deleidi,Research Asst,0009-0003-1751-2379
+Bandirali,Loris,Key Personnel,Blandini,PhD Student,0009-0009-6819-6496
+Pittwood,Georgia,Key Personnel,Schapira,Research Asst,0009-0009-6370-6872
+Geiger,Mallia,Key Personnel,Almeida,Analyst,0009-0005-4430-7914
+Ren,Yani,Key Personnel,Almeida,Bioanalyst,0009-0009-3426-2897
+Chahtour,Cherif,Key Personnel,Almeida,Biological Engineer,0009-0001-1938-7108
+Scherzer,Clemens,Lead-PI,Scherzer,Jefe,0000-0002-0567-9193
+Dong,Xianjun,Co-PI,Dong,Jefe,0000-0002-8052-9320
+Feany,Mel B.,Co-PI,Feany,Jefe,0000-0003-0315-7970
+Levin,Joshua,Co-PI,Levin,Jefe,0000-0002-0170-3598
+Zhang,Su-Chun,Co-PI,"Zhang,S",Jefe,0000-0003-0563-5147
+Beach,Thomas,Key Personnel,Scherzer,PI,0000-0003-3296-6128
+Regev,Aviv,Key Personnel,Levin,"Unpaid Collaborator (Chair Of The Faculty, Director, Professor)",0000-0003-3293-3158
+Tao,Yunlog,Key Personnel,"Zhang,S",Asst Scientist,0000-0003-0377-7133
+Serrano,Geidy,Key Personnel,Scherzer,Neuroanatomist,0000-0002-9527-2011
+Mathivanan,Sakthikumar,Key Personnel,"Zhang,S",Research Assoc,0000-0002-6647-8774
+Lin,Zechuan,Key Personnel,Scherzer,PostDoc,0000-0003-2270-5194
+Simmons,Sean,Key Personnel,Levin,Computational Scientist,0000-0002-1537-4000
+Ayala,Melvin,Key Personnel,"Zhang,S",Research Specialist,0000-0002-8669-1046
+Locascio,Joseph,Key Personnel,Scherzer,Statistician,0000-0003-3439-1209
+Weykopf,Beatrice,Proj Mgr,Scherzer,PostDoc,0000-0001-5541-839X
+Zhong,Yi,Key Personnel,Feany,Lab Asst,0000-0003-3770-1102
+Olsen,Abby,Key Personnel,Feany,Research Fellow,0000-0002-7680-1758
+Parker,Jacob,Key Personnel,Scherzer,PostDoc,0000-0001-9425-6418
+Haywood,Nathan,Key Personnel,Levin,Lab Asst,0000-0003-2213-5080
+Yuan,Jie,Key Personnel,Scherzer,PostDoc,0000-0002-5626-2881
+Sharma,Monika,Key Personnel,Scherzer,PostDoc,0000-0002-7258-1399
+Vickovic,Sanja,Key Personnel,Levin,Unpaid Collaborator (Research Fellow),0000-0003-0985-9885
+Fanning,Saranna,Key Personnel,Scherzer,Instructor,0000-0003-4638-1331
+Cline,Madison,Key Personnel,Scherzer,Research Assoc,0000-0001-9672-7738
+Feng,Li,Key Personnel,"Zhang,S",PostDoc,0000-0002-2060-3023
+Beaulieu-Jones,Brett,Co-PI,Scherzer,Collaborator,0000-0002-6700-1468
+Nithianandam,Vanitha,Key Personnel,Feany,PostDoc,0000-0002-0740-0758
+Maor,Gali,Key Personnel,Feany,Research Assoc,0000-0003-4508-0430
+Teng,Xufei,Key Personnel,Scherzer,PostDoc,0000-0001-9282-4282
+Kim,Kwanho,Key Personnel,Levin,PostDoc,0000-0002-4448-3193
+Grassin,Ewa,Key Personnel,Dong,PostDoc,0000-0002-9691-0417
+Kang,Xiaoying,Key Personnel,Scherzer,PostDoc,0000-0003-1999-9304
+Zhang,Jixiang,Key Personnel,Levin,Research Scientist,0000-0002-1641-8650
+Lorenzini,Ileana,Key Personnel,Scherzer,Research Assoc,0009-0008-7071-9690
+Intorcia,Anthony,Key Personnel,Scherzer,Research Assoc,0009-0004-5613-5825
+Bukhari,Syed Hassan,Key Personnel,Feany,PostDoc,0000-0003-3328-8234
+Zhuo,Shun-Yi,Key Personnel,Feany,PostDoc,0009-0006-7239-6667
+Sun,Zijun,Key Personnel,"Zhang,S",PostDoc,0000-0001-5386-5495
+Aslam,Sidra,Key Personnel,Scherzer,PostDoc,0000-0002-2179-4976
+Hu,Yuxuan,Key Personnel,Dong,Research Assoc,0000-0003-2931-2991
+Xu,Qingru,Key Personnel,Dong,Research Assoc,0009-0009-4372-2496
+Zhao,Yiyong,Key Personnel,Dong,PostDoc,0000-0002-5823-2926
+Lu,Mingming,Key Personnel,Dong,PostDoc,0009-0002-3920-0467
+Kearny,Matthew,Key Personnel,Scherzer,Research Scientist,0009-0005-2106-7401
+Zhao,Liping,Key Personnel,Scherzer,Research Scientist,0009-0001-0822-8988
+Gatti da Silva,Guilherme H.,Key Personnel,Feany,PostDoc,0000-0002-6567-1839
+Liu,Tingwei,Key Personnel,Dong,Reserach Associate,0009-0006-7761-4096
+Kang,Phil Jun,Key Personnel,Zhang,PostDoc,0009-0007-4153-901X
+Zhang,Liping,Key Personnel,Feany,PostDoc,0000-0002-7027-0570
+Nehme,Ralda,Key Personnel,Levin,Co-PI,0000-0001-7215-3311
+MacMahon Copas,Adina,Key Personnel,Scherzer,PostDoc,0000-0002-5118-1652
+Olivero-Acosta,Maria,Key Personnel,Dong,PostDoc,0000-0002-2799-7336
+Yamamoto,Haru,Key Personnel,Scherzer,Md/PhD Student,0000-0003-4567-6939
+Surmeier,D. James,Lead-PI,Surmeier,Jefe,0000-0002-6376-5225
+Arber,Silvia,Co-PI,Arber,Jefe,0000-0002-6261-250X
+Costa,Rui,Co-PI,Costa,Jefe,0000-0003-0495-8374
+Dan,Yang,Co-PI,Dan,Jefe,0000-0002-3818-877X
+Kennedy,Ann,Co-PI,Kennedy,Jefe,0000-0002-3782-0518
+Larsen,Emily,Key Personnel,Surmeier,,0000-0001-9063-5963
+Cui,Qialing,Key Personnel,Surmeier,Research Asst Professor,0000-0002-1632-4208
+Zhai,Shenyu,Key Personnel,Surmeier,Research Assoc,0000-0002-7097-9387
+Simmons,Denard,Key Personnel,Surmeier,PostDoc,0000-0002-9829-4312
+Guzman,Jaime,Key Personnel,Surmeier,Research Asst Professor,0000-0001-6205-7721
+Ilijic,Ema,Key Personnel,Surmeier,Research Asst Professor,0000-0002-7112-4401
+Gonzalez-Rodriquez,Patricia,Key Personnel,Surmeier,PostDoc,0000-0002-2561-3984
+Moran,James,Key Personnel,Surmeier,PostDoc,0000-0003-4517-4349
+Clarke,Vernon,Key Personnel,Surmeier,PostDoc,0000-0002-6154-6555
+Zampese,Enrico,Key Personnel,Surmeier,Research Assoc,0000-0002-8851-2566
+Vrieler,Nora,Key Personnel,Surmeier,PostDoc,0000-0002-8008-7884
+Fushiki,Akira,Key Personnel,Costa,PostDoc,0000-0002-7987-6405
+Martins,Gabi,Key Personnel,Costa,Assoc Research Scientist,0000-0001-5857-0450
+Mosberger,Alice,Key Personnel,Costa,Assoc Research Scientist,0000-0003-1114-1469
+Carmona,Marcela,Key Personnel,Costa,Assoc Research Scientist,
+Albarran,Eddy,Key Personnel,Costa,PostDoc,0000-0002-1638-100X
+Vicente,Mafalda,Key Personnel,Costa,Research Scientist,0000-0003-3815-2539
+Nyerges,Cassandra,Key Personnel,Arber,Masters Student,0009-0008-2213-898X
+Falasconi,Antonio,Key Personnel,Arber,PhD Student,
+Kanodia,Harsh,Key Personnel,Arber,PhD Student,
+Huang,Lindsay,Key Personnel,Dan,PostDoc,0000-0001-7367-8347
+Chen,Changwan,Key Personnel,Dan,PostDoc,0000-0002-2520-8516
+Pamukcu,Arin,Key Personnel,Kennedy,PostDoc,0000-0003-3369-6318
+Gast,Richard,Key Personnel,Kennedy,Research Assoc,0000-0002-4445-0340
+Bodkin,Kevin,Key Personnel,Kennedy,Technitian,0000-0002-6329-7353
+Ding,Jun,Co-PI,Ding,Jefe,0000-0003-0690-1312
+Sun,Yue,Key Personnel,Ding,,0000-0002-5681-130X
+Roth,Richard,Key Personnel,Ding,PostDoc,0000-0002-6855-999X
+Hwang,Fuu Jiun,Key Personnel,Ding,Research Assoc,0000-0003-0477-986X
+Ulrich,Sasha,Key Personnel,Surmeier,Lab Mgr,0009-0000-6880-3190
+Weber-Schmidt,Christine,Proj Mgr,Costa,Lab Mgr/Research Assoc III,0009-0003-2051-0825
+Lu,Di,Key Personnel,Ding,PostDoc,0000-0003-1177-5672
+Sheng,Mengjun,Key Personnel,Ding,PostDoc,0000-0002-1440-3447
+Peterka,Darcy,Key Personnel,Costa,Senior Research Scientist,0000-0001-7351-5820
+Vaz,Ines,Key Personnel,Costa,Grad Student,0000-0002-4713-1361
+Athalye,Vivek,Key Personnel,Costa,Senior Research Scientist,0000-0001-6167-2562
+Tkatch,Tatiana,Key Personnel,Surmeier,Research Scientist,0000-0001-6626-7435
+Xie,Zhong,Key Personnel,Surmeier,Research Scientist,0000-0002-8348-4455
+Daigle,Tanya,Key Personnel,Surmeier,Research Scientist,0000-0001-9700-8452
+Karashchuk,Lili,Key Personnel,Costa,Research Scientist,0000-0001-6244-8239
+Gu,Zirong,Key Personnel,Costa,Research Asst Professor,0000-0002-8262-7573
+Schlossmacher,Michael,Lead-PI,Schlossmacher,Jefe,0000-0002-0394-0300
+Arenkiel,Benjamin,Co-PI,Arenkiel,Jefe,0000-0001-9047-2420
+Mollenhauer,Brit,Co-PI,Mollenhauer,Jefe,0000-0001-8437-3645
+Rousseaux,Maxime,Co-PI,Rousseaux,Jefe,0000-0002-2737-6193
+Stadelmann,Christine,Co-PI,Stadelmann,Jefe,0000-0003-1766-5458
+Tomlinson,Julianna,Proj Mgr,Schlossmacher,,0000-0003-2997-5162
+Liu,Zhandong,Co-PI,Liu,Jefe,0000-0002-7608-0831
+Franz,Jonas,Key Personnel,Stadelmann,,0000-0001-7523-6622
+Woulfe,John,Co-PI,Woulfe,Jefe,0000-0002-7382-6343
+Salmaso,Natalina,Co-PI,Salmaso,Jefe,0000-0002-9661-5194
+Penninger,Josef,Co-PI,Penninger,Jefe,0000-0002-8194-3777
+Nguyen,Benjamin,Key Personnel,Rousseaux,,0000-0001-5485-0308
+Ricke,Konrad,Key Personnel,Rousseaux,,0000-0002-9425-0603
+Hasan Ali,Omar,Key Personnel,Penninger,Clinician Scientist,0000-0001-5185-7520
+Lengacher,Nathalie,Key Personnel,Schlossmacher,Research Technician,0000-0002-2536-1895
+Lunn,Michaela,Key Personnel,Schlossmacher,PhD Candidate,0000-0003-0876-8017
+Li,Juan,Key Personnel,Schlossmacher,,0000-0003-1565-2477
+Belfort,Benjamin,Key Personnel,Arenkiel,Md/PhD Candidate,0000-0002-2866-5763
+Hake-Volling,Quinton,Key Personnel,Schlossmacher,Grad Student,0000-0001-6002-7684
+Xylaki,Mary,Key Personnel,Mollenhauer,PostDoc Fellow,0000-0002-7892-8621
+Bartl,Michael,Key Personnel,Mollenhauer,Clinician Scientist,0000-0002-7752-2443
+McNeill,Jessica,Key Personnel,Salmaso,Grad Student,0000-0003-4260-9706
+Simard,Stephanie,Key Personnel,Salmaso,Lab Mgr,0000-0001-7770-2295
+Reimer,Jacob,Co-PI,Reimer,Jefe,0000-0003-4364-8846
+Geertsma,Haley,Key Personnel,Rousseaux,Grad Student,0000-0003-2434-5057
+Garza,Alex,Key Personnel,Arenkiel,Grad Student,0000-0003-3288-4237
+Callaghan,Steve,Key Personnel,Rousseaux,Lab Mgr,0000-0001-6692-4060
+Prior,Carolin Fabienne,Key Personnel,Stadelmann,Medical Student,0000-0002-5601-4693
+Maluach,Alfred,Key Personnel,Rousseaux,Grad Student,0000-0002-5874-5158
+Ortiz,Zoe,Key Personnel,Salmaso,Undergrad Student,0000-0002-8647-7787
+Suman,Priya,Key Personnel,Schlossmacher,Grad Student,0000-0003-3821-0591
+Würfel,Thea,Key Personnel,Stadelmann,Grad Student,0009-0008-1048-2484
+Groulx,Chase,Key Personnel,Salmaso,Research Technician,0000-0002-1841-5955
+Green-Berkowitz,Emma,Key Personnel,Rousseaux,Grad Student,0009-0001-4186-111X
+Part,Caroline,Key Personnel,Rousseaux,Grad Student,0009-0000-7039-3303
+Coppola,Gianfilippo,Co-PI,Coppola,Jefe,0000-0003-2675-783X
+Brain,Devin,Key Personnel,Rousseaux,Grad Student,0009-0008-7729-0372
+Aras,Sukru,Key Personnel,Liu,Asst Professor,0000-0003-1821-9126
+Jia,Johnathan,Key Personnel,Liu,Data Analyst,0000-0001-7466-8589
+Zhong,Yi,Key Personnel,Liu,Asst Professor,
+Pasupuleti,Sasidhar,Key Personnel,Liu,,0000-0003-0310-5812
+Vangheluwe,Peter,Lead-PI,Vangheluwe,Jefe,0000-0002-7822-2944
+Ahfeldt,Tim,Co-PI,Ahfeldt,Jefe,0000-0001-6377-7376
+Baekelandt,Veerle,Co-PI,Baekelandt,Jefe,0000-0001-8966-2921
+Lyons,Joseph,Co-PI,Lyons,Jefe,0000-0003-0218-4862
+Sidransky,Ellen,Co-PI,Sidransky,Jefe,0000-0002-3019-8500
+Daniëls,Veronique,Proj Mgr,Baekelandt,Innovation Mgr,0000-0003-3403-8106
+Han,Tae-Un,Key Personnel,Sidransky,Staff Scientist,0000-0002-0287-0160
+Van Veen,Sarah,Key Personnel,Vangheluwe,PostDoc,0000-0002-7639-7847
+Nissen,Poul,Co-PI,Nissen,Jefe,0000-0003-0948-6628
+Sarrafha,Lily,Key Personnel,Ahfeldt,Grad Student,0000-0002-6168-2119
+Vrijsen,Stephanie,Key Personnel,Vangheluwe,PhD Student,0000-0002-2601-510X
+Chen,Yu,Key Personnel,Sidransky,Staff Scientist,0000-0001-5438-7309
+Van den Haute,Chris,Key Personnel,Baekelandt,Research Expert,0000-0002-6650-3845
+Tayebi,Nahid,Key Personnel,Sidransky,Staff Scientist,0000-0002-1007-4957
+Kareva,Tatyana,Key Personnel,Ahfeldt,Research Assoc,0000-0002-6625-0243
+Van Asselberghs,Joris,Key Personnel,Baekelandt,Research Assoc,0000-0002-6482-8718
+Aertgeerts,Annelies,Key Personnel,Baekelandt,Research Assoc,0000-0001-8253-2374
+Peelaerts,Wouter,Key Personnel,Baekelandt,PostDoc,0000-0003-3776-4162
+Bentea,Eduard,Key Personnel,Baekelandt,PostDoc,0000-0003-2527-6997
+Coccia,Elena,Key Personnel,Ahfeldt,PostDoc,0000-0002-9849-2423
+Chakrabarty,Suravi,Key Personnel,Vangheluwe,PostDoc,0000-0003-4327-8582
+Carapinha Cascalho,Ana Catarina,Key Personnel,Vangheluwe,PostDoc,0000-0003-3534-9723
+Jacobs,Nathalie,Key Personnel,Vangheluwe,Research Assoc,0000-0003-2087-5720
+Azfar,Mujahid,Key Personnel,Vangheluwe,PhD Student,0000-0001-5822-3969
+Lopez,Grisel,Key Personnel,Sidransky,Staff Clinician,0000-0001-7785-2197
+Sanchiz Calvo,Maria,Key Personnel,Baekelandt,Grad Student,0000-0003-1773-8696
+Goldman,Camille,Key Personnel,Ahfeldt,Grad Student,0000-0002-9089-7290
+Pamula,Filip Karol,Key Personnel,Lyons,PostDoc,0000-0002-1765-8218
+Scholtissek,Klara Theresa,Key Personnel,Lyons,Grad Student,0000-0002-2053-7572
+Berhe,Bahafta,Key Personnel,Sidransky,Research Assoc,0000-0003-4888-2869
+Hertz,Ellen,Key Personnel,Sidransky,PostDoc,0000-0002-0916-3557
+Blanchard,Joel,Co-PI,Blanchard,Jefe,0000-0003-3142-2970
+Louro,Louise,Key Personnel,Blanchard,PostDoc,0000-0002-0937-9331
+Frank,Sasha,Key Personnel,Blanchard,,
+Lichtenberg,Jens,Key Personnel,Sidransky,PostDoc,0000-0002-0023-4937
+Abou El Asrar,Rania,Key Personnel,Vangheluwe,PostDoc,0000-0001-9947-2697
+Dhondt,Hanne,Key Personnel,Vangheluwe,Research Assoc,to be generated
+Bejster,Jolien,Key Personnel,Vangheluwe,Research Assoc,0000-0001-5174-3021
+Glasstetter,Logan,Key Personnel,Sidransky,Post Bac,0009-0006-3920-1477
+Eskesen Christensen,Mads,Key Personnel,Lyons,PostDoc,0009-0001-3864-2629
+Rytel,Krystyna,Key Personnel,Sidransky,Post Bac,0009-0006-3088-7337
+Ma,Charisa,Key Personnel,Sidransky,Post Bac,0009-0002-7711-3559
+Perez,Andrea,Key Personnel,Blanchard,PostDoc,0009-0005-1498-5423
+Bright,Ana,Key Personnel,Blanchard,Grad Student,
+Sohail,Soha,Key Personnel,Blanchard,Technician,
+Nishimura,Samantha,Key Personnel,Sidransky,Medical Student,0009-0000-2920-5315
+Chen,Tiffany,Key Personnel,Sidransky,Post Bac,0009-0007-9297-1988
+Sati,Aisha,Key Personnel,Vangheluwe,PostDoc,0009-0007-6270-6040
+Esmaeili,Hamid,Key Personnel,Sidransky,PostDoc,0000-0001-8003-8153
+Strick,Peter,Lead-PI,Strick,Jefe,0000-0001-5794-8458
+Grafton,Scott,Co-PI,Grafton,Jefe,0000-0003-4015-3151
+Schwerdt,Helen,Co-PI,Schwerdt,Jefe,0000-0002-0389-982X
+Stauffer,William,Co-PI,Stauffer,Jefe,0000-0003-1031-8824
+Turner,Robert,Co-PI,Strick,Jefe,0000-0002-6074-4365
+Bostan,Andreea,Proj Mgr,Strick,,0000-0003-4376-3836
+Silva,Afonso,Co-PI,Silva,Jefe,0000-0002-6105-7567
+Pfenning,Andreas,Co-PI,Pfenning,Jefe,0000-0002-3447-9801
+Lapate,Regina,Co-PI,Lapate,Jefe,0000-0002-1835-2309
+Kase,Daisuke,Key Personnel,Turner,,0000-0001-6787-5862
+Schaeffer,David,Co-PI,Schaeffer,Jefe,0000-0003-2201-7092
+Hanada,Mitsutoshi,Key Personnel,Strick,,0000-0002-2066-1151
+Rizor,Elizabeth,Key Personnel,Grafton,,0000-0002-5833-4471
+Dundon,Neil,Key Personnel,Grafton,,0000-0001-6246-1775
+Wang,Jingyi,Key Personnel,Lapate,,0000-0002-7903-0952
+Stasiak,Joanne,Key Personnel,Lapate,,0000-0003-3854-345X
+Amjad,Usamma,Key Personnel,Schwerdt,,0000-0001-5455-3207
+He,Jing,Key Personnel,Stauffer,,0000-0001-9034-8390
+Stump,Alexandra,Key Personnel,Grafton,,0000-0003-4361-0610
+Phan,BaDoi,Key Personnel,Pfenning,Grad Student,0000-0001-6331-5980
+Frum,Mara,Key Personnel,Strick,Research Technician,0000-0002-3422-987X
+Brull,Olivia,Key Personnel,Stauffer,Research Technician,0000-0001-7721-8989
+Abdelhady,Ghada,Key Personnel,Pfenning,Grad Student,0000-0002-7114-893X
+Hakim,Macie,Key Personnel,Strick,Undergrad Student,0000-0002-8098-7532
+Cox,Karin,Key Personnel,Turner,Grad Student,0000-0002-5418-0508
+Leveto,Baylie,Key Personnel,Strick,Undergrad Student,0009-0004-5400-2105
+Fredericks,Megan,Key Personnel,Stauffer,Staff Scientist,0000-0003-0385-1540
+Tittle,Rachel,Key Personnel,Stauffer,Staff Scientist,0000-0003-2309-8111
+Lin,Meng Kuang,Key Personnel,Strick,Research Asst Professor,0000-0002-8191-8563
+Harsch,Devin,Key Personnel,Turner,Grad Student,0000-0001-6267-2871
+Mahajan,Shreya,Key Personnel,Schwerdt,Grad Student,0009-0008-9832-1190
+Zambre,Mrunal,Key Personnel,Schwerdt,Grad Student,0009-0002-7415-7935
+Marflak,Rebecca,Key Personnel,Schwerdt,Lab Mgr And Research Technician,0009-0002-3454-8210
+Alikaya,Aydin,Key Personnel,Stauffer,Grad Student,0009-0003-8876-5103
+Murray,Raymond,Key Personnel,Schwerdt,Research Technician,0009-0007-1529-9243
+Cornmesser,Cherie,Key Personnel,Turner,Research Technician,0009-0007-3576-7104
+Breter,Jackie,Key Personnel,Stauffer,Lab Mgr And Research Technician,0009-0006-3475-9631
+Somich,Abby,Key Personnel,Schwerdt,Grad Student,0009-0002-9833-4166
+Vila,Miquel,Lead-PI,Vila,Jefe,0000-0002-1352-989X
+Mercuri,Nicola,Co-PI,Mercuri,Jefe,0000-0001-6700-7491
+Obeso,Jose,Co-PI,Obeso,Jefe,0000-0002-6996-8613
+Prigge,Matthias,Co-PI,Prigge,Jefe,0000-0002-4923-0056
+Hoyo,Javier,Proj Mgr,Vila,,0000-0002-9927-2465
+Arenas,Ernest,Co-PI,Arenas,Jefe,0000-0003-0197-6577
+Lanciego,José Luis,Collaborator,Lanciego,Jefe,0000-0003-2301-5419
+Soria,Federico,Collaborator,Soria,Jefe,0000-0003-1229-9663
+Tonnesen,Jan,Collaborator,Tonnesen,Jefe,0000-0003-3663-8463
+Berretta,Nicola,Collaborator,Mercuri,,0000-0001-8097-6238
+Draffin,Jonathan Evan,Key Personnel,Tonnesen,,0000-0002-1686-8504
+Guatteo,Ezia,Collaborator,Mercuri,,0000-0001-6338-1793
+Li,Hongyun,Key Personnel,Halliday,Senior Research Asst,0000-0003-3332-3132
+Wu,Ping,Key Personnel,Halliday,Research Asst,0000-0002-9583-5451
+Alessandra,Rigamonti,Key Personnel,Arenas,PostDoc,
+Natalie,Welsh,Key Personnel,Arenas,PostDoc,0000-0002-2714-0367
+Kawai,Lee,Key Personnel,Arenas,PhD Student,
+Carmen,Abaurre,Key Personnel,Arenas,Research Asst,0000-0002-7800-2829
+Fernandez,Mario,Collaborator,Soria,PhD Student,0000-0002-6118-6940
+Laguna,Ariadna,Key Personnel,Vila,Senior Academic Researcher,0000-0002-9732-6677
+Gonzalez-Sepulveda,Marta,Key Personnel,Vila,PostDoc,0000-0002-5627-847X
+Nicolau,Alba,Key Personnel,Vila,PhD Student,0000-0002-0836-2802
+Guillard-Sirieix,Camille,Key Personnel,Vila,PhD Student,0000-0002-2645-1892
+Lorente-Picón,Marina,Key Personnel,Vila,PhD Student,0000-0002-3629-9804
+Roch,Gerard,Key Personnel,Vila,PhD Student,0000-0002-9045-0579
+Parent,Annabelle,Key Personnel,Vila,Senior Research Asst,0000-0002-6195-812X
+Cuadros,Thais,Key Personnel,Vila,Senior Research Asst,0000-0001-7376-7470
+Cladera,Joana M.,Key Personnel,Vila,Research Asst,0000-0002-5680-5057
+Gonzalez-Cabrera,Cristian,Key Personnel,Prigge,PostDoc,0000-0003-0515-0254
+Ledonne,Ada,Key Personnel,Mercuri,Senior Researcher,0000-0001-6302-207X
+Blesa,Javier,Collaborator,Obeso,Researcher,0000-0002-4257-1325
+Trigo,Inés,Key Personnel,Obeso,PostDoc,0000-0002-7821-2973
+D'Addario,Sebastian Luca,Key Personnel,Mercuri,PostDoc,0000-0001-9467-9584
+Rico,Alberto J,Key Personnel,Lanciego,Lab Mgr,0000-0002-9067-5444
+Ariznabarreta,Goiaz,Key Personnel,Lanciego,Veterniary,0000-0002-8975-8971
+Roda,Elvira,Key Personnel,Lanciego,Senior Technician,0000-0002-2229-3639
+Honrubia,Adriana,Key Personnel,Lanciego,Junior Technician,0000-0001-7850-5234
+Chocarro,Julia,Key Personnel,Lanciego,PhD Student,0000-0002-3670-3459
+Jakobs,Pauline,Key Personnel,Prigge,Masters Student,0000-0003-4631-9562
+Cossa,Francesca,Key Personnel,Mercuri,PhD Student,0000-0002-8072-1910
+Zarrilli,Beatrice,Key Personnel,Mercuri,PhD Student,0000-0002-4704-5834
+Massaro,Mariangela,Key Personnel,Mercuri,PhD Student,0000-0001-7758-8082
+Giacomet,Cecilia,Key Personnel,Mercuri,PhD Student,0000-0001-7210-5619
+Gonzalez,Sandy,Key Personnel,Halliday,Senior Academic Researcher,0000-0002-9003-0101
+Filimontseva,Anastasia,PhD Student,Halliday,Grad Student,0000-0002-3316-9035
+Pineda-Pardo,Jose Angel,Collaborator,Obeso,Researcher,0000-0002-8776-0031
+Lopez-Aguirre,Miguel,Collaborator,Obeso,Student,0000-0002-7788-3660
+Reinares-Sebastian,Alejandro,Collaborator,Obeso,PhD Student,0000-0003-1632-4432
+Carrillo- Díaz de Argandoña,Megan,Collaborator,Obeso,Research Asst,0009-0006-6864-1551
+Hernández Pinedo,Nagore,Collaborator,Obeso,Research Asst,0009-0003-4915-1598
+Esteban García,Noelia,Collaborator,Obeso,PhD Student,0000-0002-2741-3054
+Gimenez,Paula,Key Personnel,Tonnesen,PhD Student,0000-0002-9949-0155
+Novák,Csilla,Key Personnel,Prigge,Technical Asst,0009-0008-6173-5365
+Nesci,Valentina,Key Personnel,Mercuri,PhD Student,0009-0003-3702-9608
+Gellhaar,Sandra,Key Personnel,Arenas,Lab Mgr,0000-0002-6337-9797
+Mohammed,Mubasher,Key Personnel,Arenas,PostDoc,0000-0002-2352-7337
+Lyu,Guochang,Key Personnel,Arenas,PhD Student,0000-0001-7732-6103
+Noguchi,Hirofumi,Key Personnel,Arenas,PostDoc,0000-0002-9779-4956
+Arnaiz,Patricia,Key Personnel,Lanciego,Technician,0009-0007-4668-0186
+Ansari Mahabadian,Anahid,Key Personnel,Halliday,Research Asst,0009-0000-0088-0544
+Gatti Quaranta,Sabrina-Ayelén,Key Personnel,Vila,PhD Student,0009-0003-8416-0369
+Municchi,Diana,Key Personnel,Prigge,PostDoc,0009-0002-8841-5368
+Kayumova,Rukhshona,Key Personnel,Prigge,PostDoc,0009-0002-0518-1333
+Voet,Thierry,Lead-PI,Voet,Jefe,0000-0003-1204-9963
+Aerts,Stein,Co-PI,Aerts,Jefe,0000-0002-8006-0315
+Boeckxstaens,Guy,Co-PI,Boeckxstaens,Jefe,0000-0001-8267-5797
+Proukakis,Christos,Co-PI,Proukakis,Jefe,0000-0001-6423-6539
+Thienpont,Bernard,Co-PI,Thienpont,Jefe,0000-0002-8772-6845
+Verstreken,Patrik,Co-PI,Verstreken,Jefe,0000-0002-5073-5393
+Vanden Berghe,Pieter,Co-PI,Vanden Berghe,Jefe,0000-0002-0009-2094
+Sedlazeck,Fritz J,Co-PI,Sedlazeck,Jefe,0000-0001-6040-2691
+Demeulemeester,Jonas,Co-PI,Demeulemeester,Jefe,0000-0002-2660-2478
+Sifrim,Alejandro,Co-PI,Sifrim,Jefe,0000-0001-8247-4020
+Warner,Thomas,Co-PI,Warner,Jefe,0000-0001-6195-6995
+Diacofotaki,Anna,Key Personnel,Thienpont,PostDoc,0000-0003-0406-0628
+Yu,Qian,Key Personnel,Thienpont,PhD Student,0000-0001-8938-3922
+Van Minsel,Paulien,Key Personnel,Thienpont,PhD Student,0000-0002-3429-0531
+Leroy,Kaat,Key Personnel,Thienpont,PostDoc,0000-0003-2900-0437
+Morley,Caoimhe,Key Personnel,Proukakis,PhD Student,0000-0001-6258-9250
+Kalef-Ezra,Ester,Key Personnel,Proukakis,PostDoc,0000-0002-1297-3315
+Gözde Turan,Zeliha,Key Personnel,Proukakis,PostDoc Bioinformatician,0000-0001-8312-7725
+Horner,Dominic,Key Personnel,Proukakis,Masters Student,
+Izydorczyk,Michal,Key Personnel,Proukakis,PostDoc,0000-0003-3461-1224
+Alar,Ceyhun,Key Personnel,Sifrim,PhD Student,0000-0002-6044-9243
+Suresh,Poovathingal,Key Personnel,Aerts,Staff Scientist,0000-0002-3236-2255
+Theunis,Koen,Key Personnel,Aerts,Technician,0000-0002-0699-6676
+Pančíková,Alexandra,Key Personnel,Aerts,PhD Student,0000-0002-0693-132X
+Sigalova,Olga,Key Personnel,Aerts,PostDoc Bioinformatician,0000-0001-8598-1079
+Christiaens,Valerie,Key Personnel,Aerts,Technician,0000-0002-5024-8691
+De Man,Julie,Key Personnel,Aerts,Bioinformatician,0009-0003-7208-8961
+Kempynck,Niklas,Key Personnel,Aerts,Bioinformatician,0000-0002-0104-4844
+Mukherjee,Shinjini,Key Personnel,Voet,PostDoc Innovation Mgr,0000-0001-9206-8739
+Salama,Sara,Proj Mgr,Voet,PostDoc Proj Mgr,0000-0002-0484-7765
+Geurts,Jarne,Key Personnel,Voet,Technician,0000-0002-1194-781X
+Bösch,Markus,Key Personnel,Voet,PostDoc Bioinformatician,0000-0003-2483-9583
+Skoufos,Georgios,Key Personnel,Voet,PostDoc Bioinformatician,0000-0001-9022-6334
+Vandereyken,Katy,Key Personnel,Voet,PostDoc,0000-0002-4477-5866
+Mikorska,Antonina,Key Personnel,Voet,Technician,0000-0001-6739-572X
+Muñoz Pedrazo,Esther,Key Personnel,Verstreken,PhD Student,0000-0002-7095-1851
+Calatayud,Carles,Key Personnel,Verstreken,PostDoc,0000-0003-0032-4198
+Kaempf,Natalie,Key Personnel,Verstreken,PostDoc,0000-0002-5466-3972
+Moons,Michaël,Key Personnel,Vanden Berghe,Technician,
+Moles Garcia,Emma,Key Personnel,Vanden Berghe,PostDoc,0000-0002-3293-6167
+Garcia Perez,Natalia,Key Personnel,Vanden Berghe,PhD Student,0000-0001-8520-3162
+Stakenborg,Nathalie,Key Personnel,Boeckxstaens,PostDoc,0000-0002-6229-0045
+De Marco,Elisabetta,Key Personnel,Boeckxstaens,PhD Student,0000-0001-8534-5988
+Viola,Maria Francesca,Key Personnel,Boeckxstaens,PhD Student,0000-0003-0660-9506
+Modave,Elodie,Key Personnel,Boeckxstaens,PostDoc Bioinformatician,0000-0002-5775-3332
+Di Domenico,Angelique,Key Personnel,Croft,PostDoc,0000-0002-0592-2560
+Tipon,Regine,Key Personnel,Croft,Assoc Scientist,0000-0002-5473-7353
+Skowronska,Marta,Key Personnel,Croft,PostDoc,0000-0002-6788-5611
+Nonose,Yasmine,Key Personnel,Croft,PostDoc,0000-0003-4421-6332
+Benjamin,Sigi,Key Personnel,Croft,,0000-0002-6411-5339
+Sawarkar,Niraj,Key Personnel,Croft,Assoc Scientist,0000-0003-3775-7018
+Kruglikov,Ilya,Unpaid Collaborator,Croft,,0000-0002-1575-4636
+Semrau,Stefan,Unpaid Collaborator,Croft,,0000-0002-4245-2246
+Diaz,Kasandra,Key Personnel,Croft,PostDoc,0000-0002-1486-1368
+Wang,Xinyuan,Key Personnel,Khurana,PostDoc,0000-0002-3107-8359
+Lam,Isabel,Key Personnel,Khurana,PostDoc,0000-0002-6247-8080
+Luo,Yunan,Key Personnel,Khurana,Paid Collaborator,0000-0001-7728-6412
+Ndayisaba,Alain,Key Personnel,Khurana,Grad Student,0000-0001-7611-7115
+Monzio Compagnoni,Giacomo,Key Personnel,Khurana,PostDoc,0000-0001-5323-8766
+Lucumi Moreno,Edinson,Key Personnel,Khurana,PostDoc,0000-0002-2181-296X
+Nazeen,Sumaiya,Key Personnel,Khurana,PostDoc,0000-0002-6313-6357
+Krolewski,Rich,Key Personnel,Khurana,Instructor,0000-0001-5974-079X
+Kuzkina,Anastasia,Unpaid Collaborator,Khurana,PostDoc,0000-0001-5443-8540
+El Kodsi,Daniel,Key Personnel,Khurana,Program Mgr,0000-0002-8896-0043
+Parmar,Malin,Unpaid Collaborator,Parmar,Jefe,0000-0001-5002-4199
+Fiorenzano,Alessandro,Unpaid Collaborator,Parmar,PostDoc,0000-0003-2478-5941
+Sozzi,Edoardo,Unpaid Collaborator,Parmar,Grad Student,0000-0002-6303-1969
+Storm,Petter,Unpaid Collaborator,Parmar,PostDoc,0000-0002-7655-3731
+Neavin,Drew,Key Personnel,Powell,PostDoc,0000-0002-1783-6491
+Farbehi,Nona,Key Personnel,Powell,PostDoc,0000-0001-8461-236X
+Gupta,Renuka,Key Personnel,Powell,PostDoc,0000-0002-5741-6555
+Krishna Sudhakar,Kavitha,Key Personnel,Powell,PostDoc,0000-0003-2883-0893
+Bocchi,Vittoria,Key Personnel,Studer,PostDoc,0000-0002-0541-0151
+Afroz,Jalwa,Key Personnel,Studer,Technician,0009-0007-5186-6401
+Jungverdorben,Johannes,Proj Mgr,Studer,Proj Mgr,0000-0002-7227-1139
+Saurat,Nathalie,Key Personnel,Studer,PostDoc,0000-0002-6439-5166
+Zitnik,Marinka,Co-PI,Zitnik,Jefe,0000-0001-8530-7228
+Giunchiglia,Valentina,Key Personnel,Zitnik,Grad Student,0000-0002-2165-7840
+Noori,Ayush,Key Personnel,Zitnik,Grad Student,0000-0003-1420-1236
+Studer,Lorenz,Lead-PI,Studer,Jefe,0000-0003-0741-7987
+Croft,Gist,Co-PI,Studer,,0000-0002-9721-0148
+Khurana,Vikram,Co-PI,Khurana,Jefe,0000-0002-4018-5527
+Powell,Joseph,Co-PI,Powell,Jefe,0000-0001-9031-6356
+Lin,Xiang,Key Personnel,Zitnik,,0000-0002-7634-5780
+Huang,Yepeng,Key Personnel,Zitnik,,0009-0001-5007-4548
+Li,Michelle,Key Personnel,Zitnik,,0000-0003-0223-7485
+Mehta,Ashish,Key Personnel,Powell,,0000-0002-0187-4477
+Wichmann,Thomas,Lead-PI,Wichmann,Jefe,0000-0002-2751-9545
+Chu,Hong-Yuan,Co-PI,Chu,Jefe,0000-0003-0923-683X
+Galvan,Adriana,Co-PI,Galvan,Jefe,0000-0001-9939-0130
+Smith,Yoland,Co-PI,Smith,Jefe,0000-0002-8700-878X
+Holbrook,Christina,Key Personnel,,,0000-0001-9958-5624
+Nassi,Jonathan,Key Personnel,Inscopix,,0000-0002-3144-3846
+Devergnas,Annaelle,Co-PI,Wichmann,Jefe,0000-0002-0461-6422
+Martel,Anne-Caroline,Key Personnel,Galvan,,0000-0001-6590-0323
+Lytton,William,Co-PI,Lytton,Jefe,0000-0002-3727-2849
+Doherty,Don,Key Personnel,Smith,,0000-0002-4973-6225
+Villalba,Rosa,Key Personnel,Smith,,0000-0001-6156-3606
+Masilamoni,Gunasingh,Key Personnel,Smith,,0000-0003-2813-1195
+Jean-Francois,Pare,Key Personnel,Smith,,0000-0003-4147-7967
+Risk,Benjamin,Co-PI,Wichmann,Jefe,0000-0003-1090-0777
+Agniswamy,Johnson,Proj Mgr,Wichmann,,0000-0002-3053-5677
+Chen,Liqiang,Key Personnel,Chu,PostDoc,0000-0003-3236-1129
+Chehade,Hiba Douja,Key Personnel,Chu,PostDoc,0000-0002-5959-7900
+Berezhoi,Daniil,Key Personnel,Chu,Research Scientist,0000-0001-7507-0589
+Pittard,Damien,Key Personnel,Galvan,Research Specialist,0000-0002-1169-8964
+Hu,Xing,Key Personnel,Smith,Research Specialist,0000-0002-4893-8626
+Downer,Joshua,Key Personnel,Inscopix,Research Scientist,0000-0003-3817-6733
+Newton,Adam,Key Personnel,Lytton,Research Scientist,0000-0002-4726-2644
+South Pham,Kelly,Key Personnel,Smith,Grad Student,0000-0003-0261-8341
+Wood,Nicholas,Lead-PI,Wood,Jefe,0000-0002-9500-3348
+Gandhi,Sonia,Co-PI,Gandhi,Jefe,0000-0003-4395-2661
+Lee,Steven,Co-PI,"Lee,S",Jefe,0000-0003-4492-5139
+Vendruscolo,Michele,Co-PI,Vendruscolo,Jefe,0000-0002-3616-1610
+Storm,Catherine,Key Personnel,Wood,PhD Student,0000-0003-4957-1712
+Jonvik,Hallgeir,Key Personnel,Wood,Database Mgr,0000-0002-1306-8958
+Gil Martinez,Ana Luisa,Key Personnel,Ryten,PostDoc,0000-0001-8455-5676
+Gustavsson,Emil,Key Personnel,Ryten,PostDoc,0000-0003-0541-7537
+Evans,James,Key Personnel,Gandhi,PhD Student,0000-0003-2923-281X
+Toomey,Christina,Key Personnel,Gandhi,PostDoc,0000-0002-5146-3326
+Lashley,Tammaryn,Co-PI,Gandhi,Collaborator,0000-0001-7389-0348
+Rahman,Saadia,Proj Mgr,Wood,Proj Mgr,0000-0003-2400-2230
+Lachica,Joanna,Key Personnel,Gandhi,Technician,0000-0002-2642-3293
+Tomkins,James,Key Personnel,Vendruscolo,PostDoc,0000-0003-3010-6634
+Arora,Rahul,Key Personnel,Vendruscolo,PhD Student,0000-0002-1678-7499
+Nisar,Shar,Key Personnel,Wood,Pdra,0000-0002-1293-8894
+Murphy,David,Key Personnel,Wood,Technician,0000-0002-3771-3800
+Breiter,Jonathan,Key Personnel,Vendruscolo,PhD Student,0000-0001-9671-657X
+Fu,Bin,Key Personnel,"Lee,S",Research Asst,0000-0002-8816-2906
+Saha,Udit Surya,Key Personnel,Vendruscolo,PostDoc,0000-0003-4568-2888
+Wagen,Aaron,Key Personnel,Gandhi,PhD Student,0000-0002-7747-6870
+Weiss,Lucien,Key Personnel,"Lee,S",PostDoc,0000-0002-0971-7329
+Demis,Kia,Key Personnel,Wood,PhD Student,
+Gonzalez-Diaz,Alicia,Key Personnel,Vendruscolo,PhD Student,0000-0002-9155-1961
+Grant-Peters,Melissa,Key Personnel,Ryten,PostDoc,0000-0003-0585-0971
+Brock,Emma,Key Personnel,"Lee,S",PostDoc,0000-0002-7683-0153
+Mahoney Sanchez,Laura,Key Personnel,Gandhi,PostDoc,0000-0002-2377-8267
+Lopez Garcia,Patricia,Key Personnel,Gandhi,PostDoc,0000-0001-6636-5940
+Garcia Ruiz,Sonia,Key Personnel,Ryten,PostDoc,0000-0003-4913-5312
+Chhatwal,Burleen,Key Personnel,Wood,PhD Student,0000-0001-7593-1916
+Beckwith,Joe,Key Personnel,"Lee,S",PostDoc,0000-0003-4726-230X
+Penverne,Alexis,Key Personnel,Gandhi,Technician,0000-0001-8980-837X
+Macpherson,Hannah,Key Personnel,Ryten,Senior Technician,0000-0002-9535-4025
+Bruggeman,Ezra,Key Personnel,"Lee,S",PostDoc,0000-0001-6100-1443
+Roentgen,Alexander,Key Personnel,Vendruscolo,Student,0000-0002-0500-4815
+Anderson,Claire,Key Personnel,Ryten,PostDoc,0000-0002-4069-7012
+Gaskin,Mark,Key Personnel,Wood,Lab Mgr,0009-0005-7795-0404
+Brezinova,Michaela,Key Personnel,Vendruscolo,Student,0000-0001-7311-1797
+Nahidiazar,Leila,Key Personnel,"Lee,S",PostDoc,0000-0002-1154-4973
+Almramhi,Mona,Key Personnel,Wood,PostDoc,0000-0002-4370-373X
+Rocamora Parez,Guillermo,Key Personnel,Ryten,Contractor,0000-0002-4795-3648
+Strohbuecker,Stephanie,Key Personnel,Wood,PostDoc,0000-0002-9781-6879
+Chen,Zhongbo,Key Personnel,Ryten,PostDoc,0000-0001-6668-7202
+Clarke,Hannah,Key Personnel,Gandhi,PostDoc,0000-0002-6800-162X
+Popovic,Rebeka,Key Personnel,Gandhi,PostDoc,0000-0002-6839-9391
+Robin,Joe,Key Personnel,Gandhi,Masters Student,0000-0003-1755-7692
+Almeida,Alexandre,Key Personnel,Vendruscolo,PostDoc,0000-0001-8803-0893
+Sulzer,David,Lead-PI,Sulzer,Jefe,0000-0001-7632-0439
+Arlehamn,Cecilia,Co-PI,Arlehamn,Jefe,0000-0001-7302-8002
+Mosharov,Eugene,PI,Sulzer,Research Scientist,0000-0002-0229-7114
+Sette,Alessandro,PI,Sette,Jefe,0000-0001-7013-2250
+Sette,Alessandro,PI,Arlehamn,Professor,0000-0001-7013-2250
+Standaert,David,PI,Standaert,Jefe,0000-0003-2921-8348
+Standaert,David,PI,Harms,Professor,0000-0003-2921-8348
+Goldman,James,PI,Goldman,Jefe,0000-0003-2135-8936
+Goldman,James,PI,Sulzer,Jefe,0000-0003-2135-8936
+Amara,Amy,PI,Harms,Jefe,0000-0003-0762-9656
+Amara,Amy,PI,Amara,Jefe,0000-0003-0762-9656
+Sims,Peter,PI,Sulzer,Jefe,0000-0002-3921-4837
+Sims,Peter,PI,Sims,Jefe,0000-0002-3921-4837
+Kanter,Ellen,Key Personnel,Sulzer,Lab Mgr,0000-0002-7475-5006
+Agalliu,Dritan,PI,Sulzer,Jefe,0000-0002-5375-4143
+Agalliu,Dritan,PI,Agalliu,Jefe,0000-0002-5375-4143
+Zhang,Yue,Key Personnel,Harms,Biostatistician,0000-0003-3734-4598
+Frazier,April,Key Personnel,Arlehamn,Proj Mgr,0000-0002-4722-7304
+Bostick,John,Key Personnel,Mazmanian,PostDoc,0000-0001-8925-2447
+Moiseyenko,Ana,Key Personnel,Mazmanian,PostDoc,0000-0001-5379-7808
+Monahan,Connor,Key Personnel,Sulzer,Grad Student,0000-0003-3245-6187
+Morales,Vanessa,Key Personnel,Sulzer,Lab Tech,0000-0001-7186-8681
+Hobson,Benjamin,Key Personnel,Sulzer,Grad Student,0000-0002-2745-5318
+Fon,Edward,PI,Fon,Jefe,0000-0002-5520-6239
+Al Dalahmah,Osama A,,Sulzer,Instructor,0000-0002-3442-5459
+Al Dalahmah,Osama A,,Goldman,Instructor,0000-0002-3442-5459
+Hecke Morais,Livia,,Mazmanian,PostDoc,0000-0002-5738-2658
+Boktor,Joseph (Joe),,Mazmanian,Lab Tech,0000-0003-2456-1913
+Schonhoff,Aubrey,,Harms,Grad Student,0000-0002-1801-1125
+Schonhoff,Aubrey,,Mazmanian,PostDoc,0000-0002-1801-1125
+Somayaji,Mahalakshmi,,Sulzer,PostDoc,0000-0002-6209-9400
+Shapiro,Kendra,Key Personnel,Arlehamn,Research Technician,0000-0003-0907-5036
+Fanourakis,Stavros,Key Personnel,Sulzer,Grad Student,0000-0001-5372-2689
+Freuchet,Antoine,Key Personnel,Arlehamn,PostDoc,0000-0002-9167-5454
+Stover,Natividad,PI,Harms,Clinician,0000-0001-9684-1813
+Fonseca,Matheus,,Mazmanian,,0000-0001-9048-9775
+Tanner,Michaelis,,Arlehamn,Research Technician,
+Yang,Vickie,,Harms,Grad Student,0000-0003-4671-8061
+Johansson,Emil,,Arlehamn,PostDoc,0000-0002-4712-3687
+Jakubiak,Kelly,,Goldman,Technician,0009-0002-6932-4460
