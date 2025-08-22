@@ -1,0 +1,37 @@
+Team,TeamSize,MaxConnections,ActualConnections,CollabScore
+Team Alessi,4,6,4,0.667
+Team Reck-Peterson,4,6,4,0.667
+Team Hurley,5,10,6,0.6
+Team Harper,5,10,3,0.3
+Team Awatramani,5,10,3,0.3
+Team Edwards,5,10,3,0.3
+Team Biederer,5,10,0,0.0
+Team Lee,4,6,0,0.0
+Team Calakos,5,10,1,0.1
+Team Chen,4,6,3,0.5
+Team Cragg,5,10,2,0.2
+Team De Camilli,5,10,5,0.5
+Team Kaplitt,4,6,3,0.5
+Team Desjardins,5,10,5,0.5
+Team Kirik,5,10,6,0.6
+Team Vila,5,10,0,0.0
+Team Schapira,5,10,5,0.5
+Team Vangheluwe,5,10,6,0.6
+Team Schlossmacher,5,10,10,1.0
+Team Hardy,5,10,5,0.5
+Team Wood,5,10,10,1.0
+Team Liddle,5,10,2,0.2
+Team Gradinaru,5,10,2,0.2
+Team Sulzer,4,6,1,0.167
+Team Hafler,5,10,1,0.1
+Team Jakobsson,4,6,3,0.5
+Team Scherzer,5,10,5,0.5
+Team Rio,4,6,6,1.0
+Team Kordower,3,3,3,1.0
+Team Mobley,5,10,1,0.1
+Team Voet,5,10,1,0.1
+Team Studer,4,6,3,0.5
+Team Strick,5,10,1,0.1
+Team Wichmann,4,6,4,0.667
+Team Surmeier,6,15,2,0.133
+Team MAC,2,1,0,0.0
